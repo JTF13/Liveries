@@ -57,6 +57,8 @@ NOTE: **Perform STEP 3 from above**
 ![guthubfetch](https://user-images.githubusercontent.com/47961951/152373508-77695371-9e84-4285-a6dc-d889d369862c.png)
 
 2. If there are any changes, the button should now read `Pull`. Select this to pull the latest changes from the pack.
+![githubpull](https://user-images.githubusercontent.com/47961951/152375563-d3a92e35-6027-4d85-89d0-50f4b2abf701.png)
+
 
 Done!
 
