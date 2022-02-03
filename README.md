@@ -17,7 +17,7 @@ This guide will show you how to update your liveries folder directly using Git. 
 4. Open GitKraken and select `Clone a repo`
 ![](README/gitclone.png)
 
-5. On the Following page click `Browse` and navigate to your `DCS.openbeta` folder at `C:\Users\YOURUSERNAMEHERE\Saved Games\DCS.openbeta`. In the URL field paste `https://github.com/rcflyinghokie/JTF-13-Skinpack.git` and make sure the field next to `Full Path` says `Liveries`. This will check the git repository out straight into Liveries so you will not have to drag and drop anything later.
+5. On the Following page click `Browse` and navigate to your `DCS.openbeta` folder at `C:\Users\YOURUSERNAMEHERE\Saved Games\DCS.openbeta`. In the URL field paste `https://github.com/JTF13/liveries.git` and make sure the field next to `Full Path` says `Liveries`. This will check the git repository out straight into Liveries so you will not have to drag and drop anything later.
 ![](README/gitclone2.png)
 
 6. Checkout of the Repository may take anywhere from 1 minute to over half and hour depending on your internet speeds. You will have a progress bar in the bottom left corner of the GitKraken Application during the checkout. If for any reason GitKraken crashes during this phase your safest bet is to just delete the `Liveries` folder and run the checkout process again.
