@@ -11,13 +11,13 @@ livery = {
 {"HB_F14_WING_LEFT_01", 0 ,"HB_F14_WING_LEFT",false};
 {"HB_F14_WING_RIGHT", 0 ,"HB_F14_WING_RIGHT",false};
 {"HB_F14_EXT_PILOT_HELMET", 0 ,"../VFA-143Textures/Helmets/JTF_F14_HELMET_WHISKEYS",false};
-{"HB_F14_EXT_RIO_HELMET", 0 ,"../VFA-143Textures/Helmets/JTF_F14_HELMET_BUBBA",false};
+{"HB_F14_EXT_RIO_HELMET", 0 ,"../VFA-143Textures/Helmets/JTF_F14_HELMET_SHADY",false};
 {"HB_F14_TCS", 0 ,"../VFA-143Textures/HB_F14_EXT_TCS",false};
 {"HB_F14_EXT_PHOENIXRAILS", 0 ,"../VFA-143Textures/HB_F14_EXT_PHOENIXPYLONS",false};
 {"HB_F14_EXT_PYLONS", 0 ,"../VFA-143Textures/HB_F14_EXT_PYLONS_01",false};
 {"HB_F14_EXT_INTAKERAMPS", 0 ,"../VFA-143Textures/HB_F14_EXT_INTAKERAMPS",false};
 {"HB_F14_EXT_DROPTANKS", 0 ,"HB_F14_EXT_DROPTANK",false};
-{"HB_F14_LOD1_3in1", 0 ,"HB_F14_LOD1_3in1",false};
+{"HB_F14_LOD1_3in1", 0 ,"../VFA-143Textures/HB_F14_LOD1_3in1",false};
 {"HB_F14_EXT_PILOT_SUIT", 0 ,"../VFA-143Textures/HB_F14_EXT_PILOT_SUIT",false};
 }
 name = "VFA-143 Pukin' Dogs-CAG"
