@@ -3,8 +3,8 @@ livery = {
 
 --Diffuse  -----------------------------------
 
-{"HB_F14_EXT_01", 0 ,"../../f-14b/VFA-143 Pukin Dogs Bug/HB_F14_EXT_01",false};
-{"HB_F14_EXT_02", 0 ,"../../f-14b/VFA-143 Pukin Dogs Bug/HB_F14_EXT_02",false};
+{"HB_F14_EXT_01", 0 ,"../../f-14b/VFA-143 Pukin Dogs Birdfarm/HB_F14_EXT_01",false};
+{"HB_F14_EXT_02", 0 ,"../../f-14b/VFA-143 Pukin Dogs Birdfarm/HB_F14_EXT_02",false};
 {"HB_F14_EXT_03", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_03",false};
 {"HB_F14_EXT_04", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_04",false};
 {"HB_F14_EXT_TAIL", 0 ,"../../f-14b/VFA-143 Pukin Dogs Bug/HB_F14_EXT_TAIL",false};
