@@ -3,7 +3,7 @@ livery = {
 	{"f18c1", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_CO",false};
 	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 
-	{"f18c2", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_XO",false};
+	{"f18c2", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_CO",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
