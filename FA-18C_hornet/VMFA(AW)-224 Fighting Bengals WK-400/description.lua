@@ -241,7 +241,7 @@ livery = {
 	{"FPU_8A", 0 ,"FPU_8A",false};
 	{"FPU_8A", 2 ,"FPU_8A_Diff_RoughMet",false};
 
-	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet_VMFAAW224",false};
+	{"pilot_F18_helmet", 0 ,"PILOT_F18_HELMET_BUBBA",false};
 		
 }
 
