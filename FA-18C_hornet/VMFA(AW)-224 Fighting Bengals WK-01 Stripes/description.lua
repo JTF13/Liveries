@@ -7,11 +7,10 @@ livery = {
 	{"f18c2", 0 ,"F18C_2_DIFF_VMFAAW224",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",false};
 
-{"pilot_F18_patch", 0 ,"../VMFA-224 Textures/Hornet_Pilot_Patch",false};
+    {"pilot_F18_patch", 0 ,"../VMFA-224 Textures/Hornet_Pilot_Patch",false};
 	{"pilot_F18", 0 ,"../VMFA-224 Textures/pilot_F18",false};
 	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
-
-	
+	{"pilot_F18_helmet", 0, "../VMFA-224 Textures/pilot_f18_helmet3", false};
 	
 	
 	{"F18C_BORT_NUMBER_NOSE_L_100", 0 ,"F18C_1_DIFF_VMFAAW224",false};
@@ -241,8 +240,7 @@ livery = {
 	{"FPU_8A", 0 ,"FPU_8A",false};
 	{"FPU_8A", 2 ,"FPU_8A_Diff_RoughMet",false};
 
-	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet_VMFAAW224",false};
 		
 }
 
-name = "VMFA(AW)-224 Fighting Bengals WK-401 Stripes"
+name = "VMFA(AW)-224 Fighting Bengals WK-01 Stripes"
