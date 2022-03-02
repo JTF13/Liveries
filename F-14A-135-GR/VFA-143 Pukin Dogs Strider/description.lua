@@ -17,7 +17,7 @@ livery = {
 {"HB_F14_EXT_PYLONS", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_PYLONS_01",false};
 {"HB_F14_EXT_INTAKERAMPS", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_INTAKERAMPS",false};
 {"HB_F14_EXT_DROPTANKS", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_DROPTANK",false};
-{"HB_F14_LOD1_3in1", 0 ,"../../f-14b/VFA-143Textures/HB_F14_LOD1_3in1",false};
+{"HB_F14_LOD1_3in1", 0 ,"../../f-14b/VFA-143 Pukin Dogs Strider/HB_F14_LOD1_3in1",false};
 {"HB_F14_EXT_PILOT_SUIT", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_PILOT_SUIT",false};
 }
 name = "VFA-143 Pukin' Dogs-Strider"
