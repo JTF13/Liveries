@@ -8,6 +8,8 @@ livery = {
 	{"AH-64D_bottom_2",	DIFFUSE,			"AH-64D_bottom_2_JTF13line", false};
 --	{"AH-64D_bottom_2",	ROUGHNESS_METALLIC,	"AH-64D_bottom_2_ReconBattalion_RoughMet", false};
 
+-- AH-64D_engine_2
+	{"AH-64D_engine_2",	DIFFUSE,			"AH-64D_engine_2_KillerBees", false};
 }
 
 
