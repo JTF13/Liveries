@@ -15,9 +15,12 @@ livery = {
 {"HB_F14_EXT_PILOT_HELMET", 0 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Custom/JTF_F14_HELMET_SPARTAN",false};
 {"HB_F14_EXT_PILOT_HELMET", 1 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_NORMAL_MAP",false};
 {"HB_F14_EXT_PILOT_HELMET", ROUGHNESS_METALLIC ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_ROUGHMET",false};
-{"HB_F14_EXT_RIO_HELMET", 0 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Custom/JTF_F14_HELMET_IRISH",false};
+{"HB_F14_EXT_RIO_HELMET", 0 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Custom/JTF_F14_HELMET_CORTANA",false};
 {"HB_F14_EXT_RIO_HELMET", 1 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_NORMAL_MAP",false};
 {"HB_F14_EXT_RIO_HELMET", ROUGHNESS_METALLIC ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_ROUGHMET",false};
+{"HB_F14_EXT_PILOT_SUIT", 0 ,"../VF-103 - 000 - Line/HB_F14_EXT_PILOT_SUIT_BLANK",false};
+{"HB_F14_EXT_PILOT_SUIT", 1 ,"../VF-103 - 000 - Line/HB_F14_EXT_PILOT_SUIT_NRM",false};
+{"HB_F14_EXT_PILOT", 0 ,"../VF-103 - 000 - Line/HB_F14_EXT_PILOT",false};
 {"HB_F14_EXT_DROPTANKS", 0 ,"../../f-14b/VF-103 - 000 - Line/HB_F14_EXT_DROPTANK",false};
 
 }
