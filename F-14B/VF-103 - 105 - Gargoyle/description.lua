@@ -12,7 +12,7 @@ livery = {
 {"HB_F14_EXT_PILOT_HELMET",   0,                    "../VF-103 - 000 - Line/Helmets/Custom/JTF_F14_HELMET_GARGOYLE",    false};
 {"HB_F14_EXT_PILOT_HELMET",   1,                    "../VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_NORMAL_MAP",    false};
 {"HB_F14_EXT_PILOT_HELMET",   ROUGHNESS_METALLIC,   "../VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_ROUGHMET",      false};
-{"HB_F14_EXT_RIO_HELMET",     0,                    "../VF-103 - 000 - Line/Helmets/Custom/JTF_F14_HELMET_ROOK",         false};
+{"HB_F14_EXT_RIO_HELMET",     0,                    "../VF-103 - 000 - Line/Helmets/Custom/JTF_F14_HELMET_ROOK",        false};
 {"HB_F14_EXT_RIO_HELMET",     1,                    "../VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_NORMAL_MAP",    false};
 {"HB_F14_EXT_RIO_HELMET",     ROUGHNESS_METALLIC,   "../VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_ROUGHMET",      false};
 {"HB_F14_EXT_PILOT_SUIT",     0,                    "../VF-103 - 000 - Line/HB_F14_EXT_PILOT_SUIT_LT",                  false};
