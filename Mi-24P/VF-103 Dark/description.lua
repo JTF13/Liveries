@@ -6,19 +6,14 @@ livery = {
   {"mi-24p_tex01_clear", ROUGHNESS_METALLIC, "mi-24p_tex01_RoughMet", true};
   {"mi-24p_blade_no_shadow",	DIFFUSE			,	"mi-24p_blade", false};
   {"mi-24p_blade_shad",	DIFFUSE			,	"mi-24p_blade", false};
-  {"BD3-57", DIFFUSE , "bd3-57_diff", false};
-
--- mi-24p_tex01 - temporary
-  {"mi-24p_tex01_clear", 0, "mi-24p_tex01",	false};
-  {"mi-24p_tex01_clear", 1, "mi-24p_tex01_NRM",	true};
-  {"mi-24p_tex01_clear", ROUGHNESS_METALLIC, "mi-24p_tex01_RoughMet", true};
+  {"BD3-57",	DIFFUSE			,	"bd3-57_diff", false};
 
 -- mi-24p_tex03
   {"mi-24p_tex03", 0,	"mi-24p_tex03", true};
   {"mi-24p_tex03", 1,	"mi-24p_tex03_NRM",	true};
   {"mi-24p_tex03", ROUGHNESS_METALLIC, "mi-24p_tex03_RoughMet", true};
 
-  {"mi-24p_tex03_clear", 0,	"mi-24p_tex03", false};
+  {"mi-24p_tex03_clear", 0,	"mi-24p_tex03", true};
   {"mi-24p_tex03_clear", 1,	"mi-24p_tex03_NRM",	true};
   {"mi-24p_tex03_clear", ROUGHNESS_METALLIC, "mi-24p_tex03_RoughMet", true};
 
@@ -66,6 +61,11 @@ livery = {
 {"mi-24p_ext07_net", DECAL, "mi-24p_ext07_un1", false};
 {"mi-24p_tex03_clear",	DIFFUSE , "mi-24p_tex03_old", false};
 {"9m114_pylon",	DIFFUSE			,	"9m114-pylon_diff", false};
+
+-- IR Suppressors
+{"mi_24p_evu", DIFFUSE, "mi-24p_evu", false};
+{"mi_24p_evu", NORMAL_MAP, "mi-24p_evu_NRM", true};
+{"mi_24p_evu", ROUGHNESS_METALLIC, "mi-24p_evu_RoughMet", true};
 
 -- Pilot
 
