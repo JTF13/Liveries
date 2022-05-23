@@ -20,6 +20,6 @@ livery = {
 {"HB_F14_LOD1_3in1", 0 ,"HB_F14_LOD1_3in1",false};
 {"HB_F14_EXT_PILOT_SUIT", 0 ,"../VFA-143Textures/HB_F14_EXT_PILOT_SUIT",false};
 }
-name = "VFA-143 Pukin' Dogs-Line Jet"
+name = "VFA-143 - Line"
 
 --countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
