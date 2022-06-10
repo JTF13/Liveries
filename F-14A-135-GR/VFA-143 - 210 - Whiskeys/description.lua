@@ -11,7 +11,7 @@ livery = {
 {"HB_F14_WING_LEFT_01", 0 ,"../../f-14b/VFA-143 - 210 - Whiskeys/HB_F14_WING_LEFT",false};
 {"HB_F14_WING_RIGHT", 0 ,"../../f-14b/VFA-143 - 210 - Whiskeys/HB_F14_WING_RIGHT",false};
 {"HB_F14_EXT_PILOT_HELMET", 0 ,"../../f-14b/VFA-143Textures/Helmets/JTF_F14_HELMET_WHISKEYS",false};
-{"HB_F14_EXT_RIO_HELMET", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_PILOT_HELMET_143OLD",false};
+{"HB_F14_EXT_RIO_HELMET", 0 ,"../../f-14b/VFA-143Textures/Helmets/JTF_F14_HELMET_WORM",false};
 {"HB_F14_TCS", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_TCS",false};
 {"HB_F14_EXT_PHOENIXRAILS", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_PHOENIXPYLONS",false};
 {"HB_F14_EXT_PYLONS", 0 ,"../../f-14b/VFA-143Textures/HB_F14_EXT_PYLONS_01",false};
