@@ -10,7 +10,7 @@ livery = {
 	{"pilot_F18_patch", 0 ,"Pilot_F18_Patch_PukinDogs",false};
 	{"pilot_F18_patch", 1 ,"Pilot_F18_Patch_NORM_PukinDogs",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"Pilot_F18_Patch_PukinDogs_RoughMet",false};
-	{"pilot_F18_helmet", 0, "../VFA-143Textures/Helmets/PILOT_F18_HELMET_LOOT", false};
+	{"pilot_F18_helmet", 0, "../VFA-143Textures/PILOT_F18_HELMET_VFA_DEFAULT", false};
 	
 	--Fuel Tanks
 	{"FPU_8A", 0 ,"FPU_8A_PukinDogs_XO",false};
