@@ -10,7 +10,7 @@ livery = {
 	{"pilot_F18_patch", 0 ,"../VFA-151 - 000 - Line/Pilot_F18_Patch_Vigilantes",false};
 	{"pilot_F18_patch", 1 ,"../VFA-151 - 000 - Line/Pilot_F18_Patch_NORM_Vigilantes",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"../VFA-151 - 000 - Line/Pilot_F18_Patch_Vigilantes_RoughMet",false};
-	{"pilot_F18_helmet", 0, "../VFA-151 - 000 - Line/PILOT_F18_HELMET_VFA_DEFAULT", false};
+	{"pilot_F18_helmet", 0, "PILOT_F18_HELMET_HotPocket", false};
 	
 	--Fuel Tanks
 	{"FPU_8A", 0 ,"../VFA-151 - 000 - Line/FPU_8A",false};
