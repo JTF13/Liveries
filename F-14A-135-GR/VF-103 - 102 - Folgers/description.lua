@@ -21,9 +21,9 @@ livery = {
 {"HB_F14_EXT_DROPTANKS",      0,                    "../../f-14b/VF-103 - 000 - Line/HB_F14_EXT_DROPTANK",                        false};
 
 }
-name = "VF-103 - 109 - Ark"
+name = "VF-103 - 102 - Folgers"
 
 -- Maintained by
 -- Jesse "Null" Booth
 -- JTF-13
--- Last Edit 2022.05.19
+-- Last Edit 2022.11.8 by Ryan "Folgers"
