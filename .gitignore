@@ -1,0 +1,340 @@
+
+AJS37cockpit/English/Annunciator_Panels.dds
+
+AJS37cockpit/English/CENTER_CONSOLE.dds
+
+AJS37cockpit/English/CPT_01.dds
+
+AJS37cockpit/English/description.lua
+
+AJS37cockpit/English/FP3_Light.dds
+
+AJS37cockpit/English/LN_VIG_CPT_GLARESHIELD_EXTRAS.dds
+
+AJS37cockpit/English/LN_VIG_CPT_HUD_S.dds
+
+AJS37cockpit/English/LN_VIG_CPT_HUD.dds
+
+AJS37cockpit/English/LN_VIG_CPT_LeftFrontPanel.dds
+
+AJS37cockpit/English/LN_VIG_MSTICK_01.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_FRAME_L.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_GLARESHIELD_SW.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_LIGHTS.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_PANEL_R_LOWER_2.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_R_UPPER.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_REARDETAIL.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_RGAUGES.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_TUB_L.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_TUB_R.dds
+
+AJS37cockpit/English/LNS_VIG_CPT_UV05.dds
+
+AJS37cockpit/English/LNS_VIG_LEFTGAUGES_01.dds
+
+AJS37cockpit/English/R_Panels_Whole_Substance_LNS_VIG_CPT_PANELS_R_EXTRAS_2.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/A-10C_mirrors.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/description.lua
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/empty.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18-cpt_rwr.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cockpit_2_DIF_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cockpit_2_DIF.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-belt_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-belt_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-belt.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-brush_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-brush_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-brush.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-displayglass_cl_refl_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-displayglass_cl_refl.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-displayglass_refl_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-displayglass_refl.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-displayglass-dif.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-glass_canopy.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-glass_cl_refl.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-glass_dif.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-glass_hud.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-glass_norm.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-glass_NRM.png
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-glass_refl.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-lgear_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-lgear_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-lgear.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-lights_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-lights.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-naces1_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-naces1_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-naces1.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-naces2_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-naces2_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-naces2.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex01_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex01_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex01.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex02_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex02_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex02.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex03_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex03_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex03.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex04_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex04_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex04.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex05_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex05_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex05.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex06_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex06_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex06.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex07_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex07_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex07.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex08_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex08_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex08.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex09_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex09_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex09.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex10_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex10_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex10.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex11_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex11_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex11.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex12_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex12_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-tex12.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-wire_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-wire_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_cpt-wire.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_mdi_l_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_mdi_l.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_mdi_r_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c_mdi_r.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c-cpt_back_NRM.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c-cpt_back_RoughMet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/f18c-cpt_back.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/pilot_F18_FP_nm.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/pilot_F18_FP_roughmet.dds
+
+Cockpit_F-18C/FA-18C_HORNET_cleanpit/pilot_F18_FP.dds
+
+Cockpit_MiG-29A/English/description.lua
+
+Cockpit_MiG-29G/English/description.lua
+
+Cockpit_MiG-29S/English/description.lua
+
+Cockpit_MiG-29S/English/Mig-29_cpt_k36.dds
+
+Cockpit_MiG-29S/English/Mig-29_cpt_lamps.tga
+
+Cockpit_MiG-29S/English/Mig-29-13_cockpit_HUD.dds
+
+Cockpit_MiG-29S/English/Mig-29-cpt_EKR.dds
+
+Cockpit_MiG-29S/English/Mig-29-cpt_KI-13.dds
+
+Cockpit_MiG-29S/English/Mig29-13_cockpit_TX1_Normal.dds
+
+Cockpit_MiG-29S/English/Mig29-13_cockpit_TX1_RoughMet.dds
+
+Cockpit_MiG-29S/English/Mig29-13_cockpit_TX1.dds
+
+Cockpit_MiG-29S/English/Mig29-13_cockpit_TX2_RoughMet.dds
+
+Cockpit_MiG-29S/English/Mig29-13_cockpit_TX2.dds
+
+Cockpit_MiG-29S/English/Mig29-13_cockpit_TX3_RoughMet.dds
+
+Cockpit_MiG-29S/English/Mig29-13_cockpit_TX3.dds
+
+Cockpit_Su-27/English Blue/description.lua
+
+Cockpit_Su-27/English Blue/su27_cpt_devices01_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_devices01.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_devices02_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_devices02.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_inter_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_inter.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_interior03_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_interior03.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_k36_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_k36.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_lamps.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel01_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel01.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel02_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel02.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel03_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel03.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel04_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel04.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel05_spec.dds
+
+Cockpit_Su-27/English Blue/su27_cpt_panel05.dds
+
+Cockpit_Su-27/English Blue/su33_cpt_rsbn_NRM.dds
+
+Cockpit_Su-27/English Blue/su33_cpt_rsbn_SPEC.dds
+
+Cockpit_Su-27/English Blue/su33_cpt_rsbn.dds
+
+Cockpit_Su-33/English Blue/description.lua
+
+Cockpit_Su-33/English Blue/su27_cpt_k36_spec.dds
+
+Cockpit_Su-33/English Blue/su27_cpt_k36.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_devices_SPEC.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_devices.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int01_SPEC.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int01.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int04_SPEC.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int04.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int05_NRM.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int05_SPEC.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int05.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int06_SPEC.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_int06.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_lamps.dds
+
+Cockpit_Su-33/English Blue/Su33_cpt_panel01_SPEC.dds
+
+Cockpit_Su-33/English Blue/Su33_cpt_panel01.dds
+
+Cockpit_Su-33/English Blue/Su33_cpt_panel02_SPEC.dds
+
+Cockpit_Su-33/English Blue/Su33_cpt_panel02.dds
+
+Cockpit_Su-33/English Blue/Su33_cpt_panel03_SPEC.dds
+
+Cockpit_Su-33/English Blue/Su33_cpt_panel03.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_rsbn_NRM.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_rsbn_SPEC.dds
+
+Cockpit_Su-33/English Blue/su33_cpt_rsbn.dds
