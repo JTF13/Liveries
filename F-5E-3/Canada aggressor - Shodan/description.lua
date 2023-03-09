@@ -1,0 +1,75 @@
+livery = {
+
+	{"F-5E3_bort_number_nose_100", 0 ,"f-5e3_nose",false};
+	{"F-5E3_bort_number_nose_100", ROUGHNESS_METALLIC ,"f-5e3_nose_spec",false};
+	{"F-5E3_bort_number_nose_100", DECAL ,"empty",false};
+	
+	{"F-5E3_bort_number_nose_10", 0 ,"f-5e3_nose",false};
+	{"F-5E3_bort_number_nose_10", ROUGHNESS_METALLIC ,"f-5e3_nose_spec",false};
+	{"F-5E3_bort_number_nose_10", DECAL ,"empty",false};
+	
+	{"F-5E3_bort_number_nose_10A", 0 ,"f-5e3_nose",false};
+	{"F-5E3_bort_number_nose_10A", ROUGHNESS_METALLIC ,"f-5e3_nose_spec",false};
+	{"F-5E3_bort_number_nose_10A", DECAL ,"f-5e3_number_red",false};
+	
+	{"F-5E3_bort_number_nose_1", 0 ,"f-5e3_nose",false};
+	{"F-5E3_bort_number_nose_1", ROUGHNESS_METALLIC ,"f-5e3_nose_spec",false};
+	{"F-5E3_bort_number_nose_1", DECAL ,"empty",false};
+	
+	{"F-5E3_bort_number_nose_1A", 0 ,"f-5e3_nose",false};
+	{"F-5E3_bort_number_nose_1A", ROUGHNESS_METALLIC ,"f-5e3_nose_spec",false};
+	{"F-5E3_bort_number_nose_1A", DECAL ,"f-5e3_number_red",false};
+	
+	{"F-5E3_bort_number_rude_100", 0 ,"f-5e3_rude",false};
+	{"F-5E3_bort_number_rude_100", ROUGHNESS_METALLIC ,"f-5e3_rude_spec",false};
+	{"F-5E3_bort_number_rude_100", DECAL ,"empty",false};
+	
+	{"F-5E3_bort_number_rude_10", 0 ,"f-5e3_rude",false};
+	{"F-5E3_bort_number_rude_10", ROUGHNESS_METALLIC ,"f-5e3_rude_spec",false};
+	{"F-5E3_bort_number_rude_10", DECAL ,"empty",false};
+	{"F-5E3_bort_number_rude_10A", 0 ,"f-5e3_rude",false};
+	{"F-5E3_bort_number_rude_10A", ROUGHNESS_METALLIC ,"f-5e3_rude_spec",false};
+	{"F-5E3_bort_number_rude_10A", DECAL ,"empty",false};
+	
+	{"F-5E3_bort_number_rude_1", 0 ,"f-5e3_rude",false};
+	{"F-5E3_bort_number_rude_1", ROUGHNESS_METALLIC ,"f-5e3_rude_spec",false};
+	{"F-5E3_bort_number_rude_1", DECAL ,"empty",false};
+	{"F-5E3_bort_number_rude_1A", 0 ,"f-5e3_rude",false};
+	{"F-5E3_bort_number_rude_1A", ROUGHNESS_METALLIC ,"f-5e3_rude_spec",false};
+	{"F-5E3_bort_number_rude_1A", DECAL ,"empty",false};
+	
+	{"F-5E3_cockpit", 0 ,"F-5e3_cockpit",false};
+	
+	{"F-5E3_nose", 0 ,"F-5e3_nose",false};
+	{"F-5E3_nose", ROUGHNESS_METALLIC ,"F-5e3_nose_spec",false};
+	{"F-5E3_nose",NORMAL_MAP,"f-5e3_nose_normal",false};
+	{"F-5E3_tail", 0 ,"F-5e3_tail",false};
+	{"F-5E3_tail", ROUGHNESS_METALLIC ,"F-5e3_tail_spec",false};
+	{"F-5E3_tail",NORMAL_MAP,"F-5e3_tail_normal",false};
+	{"F-5E3_rude", 0 ,"F-5E3_rude",false};
+	{"F-5E3_rude", ROUGHNESS_METALLIC ,"F-5E3_rude_spec",false};
+	{"F-5E3_wing", 0 ,"F-5e3_wing",false};
+	{"F-5E3_wing", ROUGHNESS_METALLIC ,"F-5e3_wing_spec",false};
+	{"F-5E3_wing",NORMAL_MAP,"f-5e3_wing_normal",false};
+	
+	{"F-5E3_chrome_rude", 0, "F-5E3_rude",false};
+	{"F-5E3_chrome_rude", 13, "F-5E3_rude_spec",false};
+	{"F-5E3_chrome_tail", 0, "F-5e3_tail",false};
+	{"F-5E3_chrome_tail", 13, "F-5e3_tail_spec",false};
+	
+	{"F5E3-SEAT-01", 0, "f5e-cpt-seat-CAF", true};
+	{"F-5E3_parachute", 0, "f-5e3_parachute", false};
+	
+	{"PTB_150", 0, "ptb_150_diffuse", false};
+	{"PTB_150", 2, "ptb_150_SPEC", false};
+	--{"Material #0", 0, "ptb_275_diffuse", false};
+	--{"Material #0", 2, "ptb_275_SPEC", false};
+	
+		
+	{"pilot_F5_E3", 0 ,"ss",false};
+	{"pilot_F5E3_helmet", 0 ,"pilot_F-5e3_helmet_White",false};
+	{"pilot_F15_patch", 0 ,"434_CF5",false};
+	{"F-5E3_glass",	DIFFUSE			,	"f-5e3_glass", false};
+}
+name = "Canada Aggressor - Shodan"
+countries = {}
