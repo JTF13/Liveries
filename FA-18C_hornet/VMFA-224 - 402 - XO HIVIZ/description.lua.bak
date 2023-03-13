@@ -14,7 +14,7 @@ livery = {
 	
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"../VMFA-224 - 000 - Line/FPU_8A",false};
+	{"FPU_8A", 0 ,"../VMFA-224 - 000 - Line/FPU_8A2",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
 	
 	--Nose Aircraft Numbers (USN)
