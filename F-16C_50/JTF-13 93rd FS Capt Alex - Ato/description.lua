@@ -118,9 +118,9 @@ livery = {
 }
 
 
-name = "JTF-13 93rd FS Capt Alex - Ato"
---Skin By xCorvinuSx Oct/2019
---Edited By Bryan "Flash" Nov/2020
+name = "JTF-13 93rd FS - Capt Alex - Ato"
+--xCorvinuSx Oct/2019
+--Edited By Bryan "Flash" MAR/2023
 
 custom_args = 
 {
