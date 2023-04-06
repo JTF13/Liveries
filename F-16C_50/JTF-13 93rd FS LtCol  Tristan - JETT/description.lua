@@ -118,7 +118,7 @@ livery = {
 }
 
 
-name = "JTF-13 93rd FS - LtCol Tristan - JETT"
+name = "JTF-13 93rd FS - LtCol Tristan - Jett"
 --Skin By xCorvinuSx Oct/2019
 --Edited By Bryan "Flash" Mar/2023
 

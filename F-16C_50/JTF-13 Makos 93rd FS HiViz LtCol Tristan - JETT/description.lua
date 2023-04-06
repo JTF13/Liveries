@@ -139,7 +139,7 @@ livery = {
 }
 
 
-name = "JTF-13 HiViz 93rd FS LtCol Tristan - JETT"
+name = "JTF-13 HiViz 93rd FS LtCol Tristan - Jett"
 
 custom_args = 
 {
