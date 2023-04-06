@@ -94,7 +94,7 @@ livery = {
 
 
 
-name = "JTF-13 93rd FS Makos HG Brig Gen Ryan - Tiger"
+name = "JTF-13 93rd FS Makos HG LtCol Ryan - Tiger"
 countries = {}
 
 custom_args = 
