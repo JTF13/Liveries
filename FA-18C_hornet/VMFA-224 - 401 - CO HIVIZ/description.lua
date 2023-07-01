@@ -7,7 +7,7 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet", 0, "PILOT_F18_HELMET_LEGS", false};
+	{"pilot_F18_helmet", 0, "PILOT_F18_HELMET_HOTPOCKET", false};
 	{"pilot_F18_patch", 0 ,"../VMFA-224 - 000 - Line/Hornet_Pilot_Patch",false};
 	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",false};
 	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
@@ -198,5 +198,5 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};		
 }
-name = "VMFA(AW)-224 Fighting Bengals - 401 - Legs - CO HiViz"
+name = "VMFA(AW)-224 Fighting Bengals - 401 - Pocket - CO HiViz"
 
