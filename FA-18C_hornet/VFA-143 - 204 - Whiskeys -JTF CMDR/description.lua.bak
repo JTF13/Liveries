@@ -13,7 +13,7 @@ livery = {
 	{"pilot_F18_helmet", 0, "PILOT_F18_HELMET_Whiskeys", false};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"../VFA-143Textures/FPU_8A_PukinDogs_Line",false};
+	{"FPU_8A", 0 ,"FPU_8A_PukinDogs_CO",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
 	
 	--Nose Aircraft Numbers (USN)

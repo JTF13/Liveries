@@ -197,6 +197,6 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
 }
-name = "VFA-143 Pukin' Dogs - Strider"
+name = "VFA-143 Pukin' Dogs - 206 - Strider"
 countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
 --By SkateZilla Graphics Studios 2018 (07.10.2018)
