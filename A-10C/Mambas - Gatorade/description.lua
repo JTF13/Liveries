@@ -31,5 +31,5 @@ livery = {
 	{"A-10_Number_Wheel", 0 ,"TactNumbers-USAF-Light_grey",false};
 
 }
-name = "Mambas"
+name = "Mambas - Gatorade"
 countries = {"USA"}
