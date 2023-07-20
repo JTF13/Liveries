@@ -16,187 +16,46 @@ livery = {
 	{"FPU_8A", 0 ,"../VFA-143Textures/FPU_8A_PukinDogs_Line",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
 	
-	--Nose Aircraft Numbers (USN)
-	--Left
-	{"F18C_BORT_NUMBER_NOSE_L_100", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_L_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_L_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_NOSE_L_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_NOSE_L_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_L_01", DECAL ,"empty",true};
-	--Right
-	{"F18C_BORT_NUMBER_NOSE_R_100", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_R_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_R_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_NOSE_R_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_NOSE_R_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_R_01", DECAL ,"empty",true};	
-		
-	--Flap Aircraft Numbers (USN)
-	--Left
-	{"F18C_BORT_NUMBER_ZAK_L_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_ZAK_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_ZAK_L_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_ZAK_L_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_ZAK_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_ZAK_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_ZAK_L_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_ZAK_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_ZAK_L_01", DECAL ,"empty",true};
-	--Right
-	{"F18C_BORT_NUMBER_ZAK_R_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_ZAK_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_ZAK_R_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_ZAK_R_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_ZAK_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_ZAK_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_ZAK_R_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_ZAK_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_ZAK_R_01", DECAL ,"empty",true};
+	--*NEW 2.8.4 Bort Numbers*
+	--USN_MODEX_NOSE
+	{"f18c1_number_nose_left"			, DIFFUSE				, "F18C_1_DIFF_VFA143_PukinDogs_Line", false};
+	{"f18c1_number_nose_left"			, SPECULAR				, "F18C_1_DIF_RoughMet", false};
+	{"f18c1_number_nose_left"			, DECAL					, "empty", true};
+	{"f18c1_number_nose_right"			, DIFFUSE				, "F18C_1_DIFF_VFA143_PukinDogs_Line", false};
+	{"f18c1_number_nose_right"			, SPECULAR				, "F18C_1_DIF_RoughMet", false};
+	{"f18c1_number_nose_right"			, DECAL					, "empty", true};
+	--RAAF /KAF/SWITZ_MODEX_FUSELAGE_FRONT_MID_BACK_GEAR_DOORS_SMALL
+	{"f18c1_number_F"					, DIFFUSE				, "F18C_1_DIFF_VFA143_PukinDogs_Line", false};
+	{"f18c1_number_F"					, SPECULAR				, "F18C_1_DIF_RoughMet", false};
+	{"f18c1_number_F"					, DECAL					, "empty", true};
+	--KAF_MODEX_VERTICAL_STABILIZERS_AND_FLAPS_MODEX
+	{"f18c2_number_X"					, DIFFUSE				, "F18C_2_DIFF_VFA143_PukinDogs_Line", false};
+	{"f18c2_number_X"					, SPECULAR				, "F18C_2_DIF_RoughMet", false};
+	{"f18c2_number_X"					, DECAL					, "empty", true};
+	--USN_MODEX_VERTICAL_STABILIZERS
+	{"f18c2_kil_left"					, DIFFUSE				, "F18C_2_DIFF_VFA143_PukinDogs_Line", false};
+	{"f18c2_kil_left"					, SPECULAR				, "F18C_2_DIF_RoughMet", false};
+	{"f18c2_kil_left"					, DECAL					, "empty", true};
+	{"f18c2_kil_right"					, DIFFUSE				, "F18C_2_DIFF_VFA143_PukinDogs_Line", false};
+	{"f18c2_kil_right"					, SPECULAR				, "F18C_2_DIF_RoughMet", false};
+	{"f18c2_kil_right"					, DECAL					, "empty", true};	
 	
-	--Vertical Stab Aircraft Numbers (USN)
-	--Left
-	{"F18C_BORT_NUMBER_KIL_L_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_KIL_L_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_KIL_L_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_01", DECAL ,"empty",true};	
-	--Right
-	{"F18C_BORT_NUMBER_KIL_R_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_KIL_R_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_KIL_R_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_01", DECAL ,"empty",true};		
-
-	--Nose Aircraft Numbers (KUWAIT)
-	--Left
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_100", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_L_01", DECAL ,"empty",true};
-	--Right
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_100", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_kuw_R_01", DECAL ,"empty",true};		
 	
+	--(0.0 = ON, 1.0 OFF)
 
-	--Vertical Stab Numbers (KUWAIT)
-	--Right
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", DECAL ,"empty",true};	
-	--Left
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", DECAL ,"empty",true};		
-
-	--Nose Aircraft Numbers (FINLAND)
-	--Left
-	{"F18C_BORT_NUMBER_NOSE_fin_L_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_fin_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_fin_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_NOSE_fin_L_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_fin_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_fin_L_01", DECAL ,"empty",true};
-	--Right
-	{"F18C_BORT_NUMBER_NOSE_fin_R_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_fin_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_fin_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_NOSE_fin_R_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_NOSE_fin_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_NOSE_fin_R_01", DECAL ,"empty",true};			
-
-	--Vertical Tail Numbers (SWITZERLAND)
-	--Right
-	{"F18C_BORT_NUMBER_KIL_Switz_R_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Switz_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_R_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_R_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Switz_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_KIL_Switz_R_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Switz_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_R_01", DECAL ,"empty",true};	
-	--Left
-	{"F18C_BORT_NUMBER_KIL_Switz_L_100", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Switz_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_L_100", DECAL ,"empty",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_L_10", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Switz_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_KIL_Switz_L_01", 0 ,"F18C_2_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_KIL_Switz_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_Switz_L_01", DECAL ,"empty",true};
-
-	--Gear Door Numbers (RAAF)
-	--Right
-	{"F18C_BORT_NUMBER_STV_aus_R_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_STV_aus_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_STV_aus_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_STV_aus_R_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_STV_aus_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_STV_aus_R_01", DECAL ,"empty",true};	
-	--Left
-	{"F18C_BORT_NUMBER_STV_aus_L_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_STV_aus_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_STV_aus_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_STV_aus_L_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_STV_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_STV_aus_L_01", DECAL ,"empty",true};		
-		
-	--Aft Fuselage Numbers (RAAF)
-	--Right
-	{"F18C_BORT_NUMBER_MTW_aus_R_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_MTW_aus_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_MTW_aus_R_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_MTW_aus_R_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_MTW_aus_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_MTW_aus_R_01", DECAL ,"empty",true};	
-	--Left
-	{"F18C_BORT_NUMBER_MTW_aus_L_10", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_MTW_aus_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_MTW_aus_L_10", DECAL ,"empty",true};	
-	{"F18C_BORT_NUMBER_MTW_aus_L_01", 0 ,"F18C_1_DIFF_VFA143_PukinDogs_Line",false};
-	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
+	
 }
+
+custom_args = {
+	[0027] = 1.0, -- USN_MODEX_VERTICAL_STABILIZERS
+	[1000] = 1.0, -- USN_MODEX_FLAPS
+	[1001] = 1.0, -- USN_MODEX_NOSE
+	[1002] = 1.0, -- KUWAIT_MODEX_NOSE_AND_VERTICAL_STABILIZERS
+	[1003] = 1.0, -- AUSTRAILIA_MODEX_REAR_FUSELAGE_AND_GEAR_DOORS
+	[1004] = 1.0, -- FINLAND_MODEX_FORWARD_FUSELAGE
+	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
+}
+
 name = "VFA-143 Pukin' Dogs - 217 - Doc"
 countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
 --By SkateZilla Graphics Studios 2018 (07.10.2018)
