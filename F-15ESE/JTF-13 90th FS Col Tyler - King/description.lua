@@ -98,6 +98,87 @@ livery = {
 	{"F-15E_08",	1,	                "F-15e_E08_NRM",	true};
 	{"F-15E_08",	ROUGHNESS_METALLIC,	"F-15e_E08_RoughMet_COMBAT", true};
 	
+-- EXTERIOR COCKPIT
+	{"F-15EC_02",	0,	                "F-15I_EC02-IDF-69",			false};
+	{"F-15EC_02",	1,	                "F-15E_EC02_NRM",	true};
+	{"F-15EC_02",	ROUGHNESS_METALLIC,	"F-15E_EC02_RoughMet", true};
+	
+	{"F-15EC_03",	0,	                "F-15I_EC03-IDF-69",			false};
+	{"F-15EC_03",	1,	                "F-15E_EC03_NRM",	true};
+	{"F-15EC_03",	ROUGHNESS_METALLIC,	"F-15E_EC03_RoughMet", true};	
+	
+	
+--COCKPIT---------------------------------------------------------------------------------------
+
+	{"F-15E_INT4",	0,	                "F-15I_T4-BLK",			false};
+	{"F-15E_INT4",	1,	                "F-15E_T4_NRM",	true};
+	{"F-15E_INT4",	ROUGHNESS_METALLIC,	"F-15e_T4_RoughMet", true};
+	
+	{"F-15E_INT6",	0,	                "F-15I_T6-BLK",			false};
+	{"F-15E_INT6",	1,	                "F-15E_T6_NRM",	true};
+	{"F-15E_INT6",	ROUGHNESS_METALLIC,	"F-15e_T6_RoughMet", true};	
+	
+	{"F-15E_INT7",	0,	                "F-15I_T7-BLK",			false};
+	{"F-15E_INT7",	1,	                "F-15E_T7_NRM",	true};
+	{"F-15E_INT7",	ROUGHNESS_METALLIC,	"F-15e_T7_RoughMet", true};
+	
+	{"F-15E_INT8",	0,	                "F-15I_T8-BLK",			false};
+	{"F-15E_INT8",	1,	                "F-15E_T8_NRM",	true};
+	{"F-15E_INT8",	ROUGHNESS_METALLIC,	"F-15e_T8_RoughMet", true};
+	
+	{"F-15E_INT11",	0,	                "F-15I_T11-BLK",			false};
+	{"F-15E_INT11",	1,	                "F-15E_T11_NRM",	true};
+	{"F-15E_INT11",	ROUGHNESS_METALLIC,	"F-15e_T11_RoughMet", true};
+	
+	{"F-15E_INT12",	0,	                "F-15I_T12-BLK",			false};
+	{"F-15E_INT12",	1,	                "F-15E_T12_NRM",	true};
+	{"F-15E_INT12",	ROUGHNESS_METALLIC,	"F-15e_T12_RoughMet", true};
+	
+	{"F-15E_INT14",	0,	                "F-15I_T14-BLK",			false};
+	{"F-15E_INT14",	1,	                "F-15E_T14_NRM",	true};
+	{"F-15E_INT14",	ROUGHNESS_METALLIC,	"F-15e_T14_RoughMet", true};
+	
+	{"F-15E_INT26",	0,	                "F-15I_T26-BLK",			false};
+	{"F-15E_INT26",	1,	                "F-15E_T26_NRM",	true};
+	{"F-15E_INT26",	ROUGHNESS_METALLIC,	"F-15e_T26_RoughMet", true};
+	
+	{"F-15E_INT27",	0,	                "F-15I_T27-BLK",			false};
+	{"F-15E_INT27",	1,	                "F-15E_T27_NRM",	true};
+	{"F-15E_INT27",	ROUGHNESS_METALLIC,	"F-15e_T27_RoughMet", true};
+	
+	{"F-15E_INT28",	0,	                "F-15I_T28-BLK",			false};
+	{"F-15E_INT28",	1,	                "F-15E_T28_NRM",	true};
+	{"F-15E_INT28",	ROUGHNESS_METALLIC,	"F-15e_T28_RoughMet", true};
+	
+	{"F-15E_INT29",	0,	                "F-15I_T29-BLK",			false};
+	{"F-15E_INT29",	1,	                "F-15E_T29_NRM",	true};
+	{"F-15E_INT29",	ROUGHNESS_METALLIC,	"F-15e_T29_RoughMet", true};
+	
+	{"F-15E_INT30",	0,	                "F-15I_T30-BLK",			false};
+	{"F-15E_INT30",	1,	                "F-15E_T30_NRM",	true};
+	{"F-15E_INT30",	ROUGHNESS_METALLIC,	"F-15e_T30_RoughMet", true};
+	
+	{"F-15E_INT31",	0,	                "F-15I_T31-BLK",			false};
+	{"F-15E_INT31",	1,	                "F-15E_T31_NRM",	true};
+	{"F-15E_INT31",	ROUGHNESS_METALLIC,	"F-15e_T31_RoughMet", true};
+	
+	{"F-15E_INT32",	0,	                "F-15I_T32-BLK",			false};
+	{"F-15E_INT32",	1,	                "F-15E_T32_NRM",	true};
+	{"F-15E_INT32",	ROUGHNESS_METALLIC,	"F-15e_T32_RoughMet", true};
+	
+	{"F-15E_INT35",	0,	                "F-15I_T35-BLK",			false};
+	{"F-15E_INT35",	1,	                "F-15E_T35_NRM",	true};
+	{"F-15E_INT35",	ROUGHNESS_METALLIC,	"F-15e_T35_RoughMet", true};
+	
+	{"F-15E_INT37",	0,	                "F-15I_T37-BLK",			false};
+	{"F-15E_INT37",	1,	                "F-15E_T37_NRM",	true};
+	{"F-15E_INT37",	ROUGHNESS_METALLIC,	"F-15e_T37_RoughMet", true};
+	
+		
+--Ghost Controls	
+
+	{"F-15E_INT4_GHOST",	0,	                "F-15I_T4-BLK_GHOST",			false};
+	{"F-15E_INT4",	1,	                "F-15E_T4_NRM",	true};
 
 
 --BORT_NUMBER----------------------------------------------------------------------------------------
@@ -222,7 +303,7 @@ custom_args =
 [442]  = 0.8, -- 100 
 [1000] = 0.0, -- change of type of board number (0.0 - No Numbers, 0.1 - 3 Numbers, 0.2 - 4 Numbers starts with "1", 0.3 - Full 4 Numbers)
 [1001] = 0.1, -- vis refuel board number (0.0 - No Numbers, 0.1 Numbers, 0.2 - Numbers Early)
-[1002] = 0.0, -- change of type intake board number 
+[1002] = 0.45, -- change of type intake board number 
 [1003] = 0.1, -- vis Nose Gear board number (0.0 - 4 Numbers 0.0 to 0.05 adjusts the placement, 0.1 - 5 Numbers)
 }
 
