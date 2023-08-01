@@ -151,7 +151,7 @@ livery = {
 	{"F-15EC_06",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07",	0,	                "F-15E_EC07A1",					true};
+	{"F-15EC_07",	0,	                "F-15E_EC07A3",					true};
 	{"F-15EC_07",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
 --    {"F-15EC_07",	DECAL,	            "F-15EC_07_Decal",			true};
@@ -165,7 +165,7 @@ livery = {
 	{"F-15EC_06R",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06R",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07R",	0,	                "F-15E_EC07A1",					true};
+	{"F-15EC_07R",	0,	                "F-15E_EC07A3",					true};
 	{"F-15EC_07R",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07R",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
 --    {"F-15EC_07R",	DECAL,	            "F-15EC_07_Decal",			true};
@@ -200,11 +200,11 @@ livery = {
 	{"F-15E_VR-Pilot3R",	ROUGHNESS_METALLIC,	"F-15E_TP3_RoughMet", 		true};
 
 --Visor
-	{"F-15EC_07_Visor",	0,	                "F-15E_EC07A1",					true};
+	{"F-15EC_07_Visor",	0,	                "F-15E_EC07A3",					true};
 	{"F-15EC_07_Visor",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
 
-	{"F-15EC_07R_Visor",	0,	                "F-15E_EC07A1",					true};
+	{"F-15EC_07R_Visor",	0,	                "F-15E_EC07A3",					true};
 	{"F-15EC_07R_Visor",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07R_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
 }
