@@ -293,7 +293,7 @@ livery = {
 
 
 
-name = "JTF-13 90th FS Col Tyler - King"  --5832
+name = "JTF-13 90th FS Col Tyler - King - Black Cockpit"  --5832
 countries = {"USA"}
 
 custom_args = 
