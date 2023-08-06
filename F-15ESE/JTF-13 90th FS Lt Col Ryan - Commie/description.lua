@@ -105,7 +105,7 @@ livery = {
 
 
 --F-15E_REFUEL-DECAL	
-    {"F-15E_REFUEL-DECAL",	0,	                "REFUEL_AK-86-0",				false};
+    {"F-15E_REFUEL-DECAL",	0,	                "REFUEL_AK-80-0",				false};
 
 
 --F-15E_REFUEL-NUMBER
@@ -165,7 +165,7 @@ livery = {
 	{"F-15EC_06R",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06R",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07R",	0,	                "F-15E_EC07A4",					true};
+	{"F-15EC_07R",	0,	                "F-15E_EC07A3",					true};
 	{"F-15EC_07R",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07R",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
 --    {"F-15EC_07R",	DECAL,	            "F-15EC_07_Decal",			true};
@@ -204,7 +204,7 @@ livery = {
 	{"F-15EC_07_Visor",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
 
-	{"F-15EC_07R_Visor",	0,	                "F-15E_EC07A4",					true};
+	{"F-15EC_07R_Visor",	0,	                "F-15E_EC07A3",					true};
 	{"F-15EC_07R_Visor",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07R_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
 }
@@ -212,14 +212,14 @@ livery = {
 
 
 
-name = "JTF-13 90th FS Lt Col Ryan - Commie"  --0183
+name = "JTF-13 90th FS Lt Col Ryan - Commie"  --80--0085
 countries = {"USA"}
 
 custom_args = 
 {
-[32]   = 0.3, -- 1
+[32]   = 0.5, -- 1
 [31]   = 0.8, -- 10
-[442]  = 0.1, -- 100 
+[442]  = 0.0, -- 100 
 [1000] = 0.0, -- change of type of board number (0.0 - No Numbers, 0.1 - 3 Numbers, 0.2 - 4 Numbers starts with "1", 0.3 - Full 4 Numbers)
 [1001] = 0.1, -- vis refuel board number (0.0 - No Numbers, 0.1 Numbers, 0.2 - Numbers Early)
 [1002] = 0.0, -- change of type intake board number 
