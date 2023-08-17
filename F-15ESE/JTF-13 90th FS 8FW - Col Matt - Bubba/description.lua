@@ -113,7 +113,7 @@ livery = {
 
 
 --F-15E_TAIL-DECAL
-    {"F-15E_TAIL-DECAL",	0,	                "empty",				true};
+    {"F-15E_TAIL-DECAL",	0,	                "F-15E_TAIL_AF-88-1",				true};
 	
 --F-15E_TAIL-DECAL-L	
     {"F-15E_TAIL-DECAL-L",	0,	                "F-15E_E06",					true};
@@ -128,7 +128,7 @@ livery = {
     {"F-15E_TAIL-DECAL-R",	DECAL,	            "empty",			true};
 	
 --F-15E_TAIL-NUMBER                             
-    {"F-15E_TAIL-NUMBER",	0,	                "empty",			true};
+    {"F-15E_TAIL-NUMBER",	0,	                "F-15E_BLK_Numbers",			true};
 	
 --F-15E_TAIL-NUMBER-L
 	{"F-15E_TAIL-NUMBER-L",	0,	                "F-15E_E06",					true};
@@ -151,7 +151,7 @@ livery = {
 	{"F-15EC_06",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07",	0,	                "F-15E_EC07A3",					true};
+	{"F-15EC_07",	0,	                "F-15E_EC07A1",					true};
 	{"F-15EC_07",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
 --    {"F-15EC_07",	DECAL,	            "F-15EC_07_Decal",			true};
@@ -165,7 +165,7 @@ livery = {
 	{"F-15EC_06R",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06R",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07R",	0,	                "F-15E_EC07A3",					true};
+	{"F-15EC_07R",	0,	                "F-15E_EC07A1",					true};
 	{"F-15EC_07R",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07R",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
 --    {"F-15EC_07R",	DECAL,	            "F-15EC_07_Decal",			true};
@@ -200,11 +200,11 @@ livery = {
 	{"F-15E_VR-Pilot3R",	ROUGHNESS_METALLIC,	"F-15E_TP3_RoughMet", 		true};
 
 --Visor
-	{"F-15EC_07_Visor",	0,	                "F-15E_EC07A3",					true};
+	{"F-15EC_07_Visor",	0,	                "F-15E_EC07A1",					true};
 	{"F-15EC_07_Visor",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
 
-	{"F-15EC_07R_Visor",	0,	                "F-15E_EC07A3",					true};
+	{"F-15EC_07R_Visor",	0,	                "F-15E_EC07A1",					true};
 	{"F-15EC_07R_Visor",	1,	                "F-15E_EC07A_NRM",				true};
 	{"F-15EC_07R_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
 }
@@ -223,6 +223,6 @@ custom_args =
 [1000] = 0.0, -- change of type of board number (0.0 - No Numbers, 0.1 - 3 Numbers, 0.2 - 4 Numbers starts with "1", 0.3 - Full 4 Numbers)
 [1001] = 0.1, -- vis refuel board number (0.0 - No Numbers, 0.1 Numbers, 0.2 - Numbers Early)
 [1002] = 0.0, -- change of type intake board number 
-[1003] = 0.12, -- vis Nose Gear board number (0.0 - 4 Numbers 0.0 to 0.05 adjusts the placement, 0.1 - 5 Numbers)
+[1003] = 0.02, -- vis Nose Gear board number (0.0 - 4 Numbers 0.0 to 0.05 adjusts the placement, 0.1 - 5 Numbers)
 }
 

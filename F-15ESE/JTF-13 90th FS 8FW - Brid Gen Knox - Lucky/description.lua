@@ -113,7 +113,7 @@ livery = {
 
 
 --F-15E_TAIL-DECAL
-    {"F-15E_TAIL-DECAL",	0,	                "empty",				true};
+    {"F-15E_TAIL-DECAL",	0,	                "TAIL_AK-82-0",				false};
 	
 --F-15E_TAIL-DECAL-L	
     {"F-15E_TAIL-DECAL-L",	0,	                "F-15E_E06",					true};
@@ -128,7 +128,7 @@ livery = {
     {"F-15E_TAIL-DECAL-R",	DECAL,	            "empty",			true};
 	
 --F-15E_TAIL-NUMBER                             
-    {"F-15E_TAIL-NUMBER",	0,	                "empty",			true};
+    {"F-15E_TAIL-NUMBER",	0,	                "F-15E_BLK_Numbers",			true};
 	
 --F-15E_TAIL-NUMBER-L
 	{"F-15E_TAIL-NUMBER-L",	0,	                "F-15E_E06",					true};

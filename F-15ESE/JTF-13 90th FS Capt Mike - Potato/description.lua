@@ -125,7 +125,7 @@ livery = {
     {"F-15E_TAIL-DECAL-R",	0,	                "F-15E_E06_A_COMBAT",					true};
 	{"F-15E_TAIL-DECAL-R",	1,	                "F-15e_E06_NRM",				true};
 	{"F-15E_TAIL-DECAL-R",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", 			true};
-    {"F-15E_TAIL-DECAL-R",	DECAL,	            "F-15E_TAIL_AF-89-0",			true};
+    {"F-15E_TAIL-DECAL-R",	DECAL,	            "TAIL_AK-89-1",			false};
 	
 --F-15E_TAIL-NUMBER                             
     {"F-15E_TAIL-NUMBER",	0,	                "F-15E_BLK_Numbers",			true};
