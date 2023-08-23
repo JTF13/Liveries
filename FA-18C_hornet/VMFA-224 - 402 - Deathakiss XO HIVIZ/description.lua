@@ -12,6 +12,30 @@ livery = {
 	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",false};
 	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
 	
+	--Grey Naval bombs
+	{"GBU_12",	DIFFUSE			,	"gbu_12t_gray_diff", true};
+	{"GBU_12",	NORMAL_MAP			,	"gbu_12_nm", true};
+	{"GBU_12",	ROUGHNESS_METALLIC			,	"gbu_12_diff_roughmet", true};
+	{"MK_82", DIFFUSE, "mk_82t_grey_diff", true};
+	{"MK_82", NORMAL_MAP, "mk_82_nm", true};
+	{"MK_82", ROUGHNESS_METALLIC, "mk_82_diff_roughmet", true};
+	{"mk_83", DIFFUSE, "mk_83tgrey_diff", true};
+	{"mk_83", NORMAL_MAP, "mk_83_nm", true};
+	{"mk_83", ROUGHNESS_METALLIC, "mk_83_diff_roughmet", true};
+	{"GBU_38", DIFFUSE, "gbu_38t_diff", true};
+	{"GBU_38", NORMAL_MAP, "gbu_38_nm", true};
+	{"GBU_38", ROUGHNESS_METALLIC, "gbu_38_diff_roughmet", true};
+	{"GBU_31", DIFFUSE, "gbu_31t_gray_diff", true};
+	{"GBU_31", NORMAL_MAP, "gbu_31_nm", true};
+	{"GBU_31", ROUGHNESS_METALLIC, "gbu_31_diff_roughmet", true};
+	{"mk_84", NORMAL_MAP, "mk_84_nm", true};
+	{"mk_84", ROUGHNESS_METALLIC, "mk_84_diff_roughmet", true};
+	{"GBU_10", DIFFUSE, "gbu_10_diff", true};
+	{"GBU_10", NORMAL_MAP, "gbu_10_nm", true};
+	{"GBU_10", ROUGHNESS_METALLIC, "gbu_10_diff_roughmet", true};
+	{"GBU_16", DIFFUSE, "gbu_16t_gray_diff", true};
+	{"GBU_16", NORMAL_MAP, "gbu_16t_nm", true};
+	{"GBU_16", ROUGHNESS_METALLIC, "gbu_16t_gray_diff_roughmet", true};
 	
 	--Fuel Tanks
 	{"FPU_8A", 0 ,"../VMFA-224 - 000 - Line/FPU_8A2",false};

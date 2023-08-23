@@ -7,7 +7,7 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet", 0, "pilot_F18_helmet_dangles", false};
+	{"pilot_F18_helmet", 0, "pilot_F18_helmet_vfa_mayo", false};
 	{"pilot_F18_patch", 0 ,"../VMFA-224 - 000 - Line/Hornet_Pilot_Patch",false};
 	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",false};
 	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
@@ -56,5 +56,5 @@ custom_args = {
 	[1004] = 1.0, -- FINLAND_MODEX_FORWARD_FUSELAGE
 	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
 }
-name = "VMFA(AW)-224 Fighting Bengals - 417 - Dangles"
+name = "VMFA(AW)-224 Fighting Bengals - 416 - Mayo Memorial"
 

@@ -56,6 +56,6 @@ custom_args = {
 	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
 }
 
-name = "VFA-143 Pukin' Dogs - 205 - Disco"
+name = "VFA-143 Pukin' Dogs - 207 - Whiplash"
 countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
 --By SkateZilla Graphics Studios 2018 (07.10.2018)

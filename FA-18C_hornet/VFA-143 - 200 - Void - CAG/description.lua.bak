@@ -10,7 +10,7 @@ livery = {
 	{"pilot_F18_patch", 0 ,"Pilot_F18_Patch_PukinDogs",false};
 	{"pilot_F18_patch", 1 ,"Pilot_F18_Patch_NORM_PukinDogs",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"Pilot_F18_Patch_PukinDogs_RoughMet",false};
-	{"pilot_F18_helmet", 0, "../VFA-143Textures/Helmets/pilot_F18_helmet_APOLLO", false};
+	{"pilot_F18_helmet", 0, "pilot_F18_helmet_VMFAAW224_bengal", false};
 	
 	--Fuel Tanks
 	{"FPU_8A", 0 ,"FPU_8A_PukinDogs_CO",false};
@@ -23,25 +23,25 @@ livery = {
 	
 	--*NEW 2.8.4 Bort Numbers*
 	--USN_MODEX_NOSE
-	{"f18c1_number_nose_left"			, DIFFUSE				, "F18C_1_DIFF_VMFA_224_Bengals", false};
+	{"f18c1_number_nose_left"			, DIFFUSE				, "F18C_1_DIFF_VFA143_PukinDogs_Line", false};
 	{"f18c1_number_nose_left"			, SPECULAR				, "F18C_1_DIF_RoughMet", false};
 	{"f18c1_number_nose_left"			, DECAL					, "empty", true};
-	{"f18c1_number_nose_right"			, DIFFUSE				, "F18C_1_DIFF_VMFA_224_Bengals", false};
+	{"f18c1_number_nose_right"			, DIFFUSE				, "F18C_1_DIFF_VFA143_PukinDogs_Line", false};
 	{"f18c1_number_nose_right"			, SPECULAR				, "F18C_1_DIF_RoughMet", false};
 	{"f18c1_number_nose_right"			, DECAL					, "empty", true};
 	--RAAF /KAF/SWITZ_MODEX_FUSELAGE_FRONT_MID_BACK_GEAR_DOORS_SMALL
-	{"f18c1_number_F"					, DIFFUSE				, "F18C_1_DIFF_VMFA_224_Bengals", false};
+	{"f18c1_number_F"					, DIFFUSE				, "F18C_1_DIFF_VFA143_PukinDogs_Line", false};
 	{"f18c1_number_F"					, SPECULAR				, "F18C_1_DIF_RoughMet", false};
 	{"f18c1_number_F"					, DECAL					, "empty", true};
 	--KAF_MODEX_VERTICAL_STABILIZERS_AND_FLAPS_MODEX
-	{"f18c2_number_X"					, DIFFUSE				, "F18C_2_DIFF_VMFA_224_Bengals", false};
+	{"f18c2_number_X"					, DIFFUSE				, "F18C_2_DIFF_VFA143_PukinDogs_Line", false};
 	{"f18c2_number_X"					, SPECULAR				, "F18C_2_DIF_RoughMet", false};
 	{"f18c2_number_X"					, DECAL					, "empty", true};
 	--USN_MODEX_VERTICAL_STABILIZERS
-	{"f18c2_kil_left"					, DIFFUSE				, "F18C_2_DIFF_VMFA_224_Bengals", false};
+	{"f18c2_kil_left"					, DIFFUSE				, "F18C_2_DIFF_VFA143_PukinDogs_Line", false};
 	{"f18c2_kil_left"					, SPECULAR				, "F18C_2_DIF_RoughMet", false};
 	{"f18c2_kil_left"					, DECAL					, "empty", true};
-	{"f18c2_kil_right"					, DIFFUSE				, "F18C_2_DIFF_VMFA_224_Bengals", false};
+	{"f18c2_kil_right"					, DIFFUSE				, "F18C_2_DIFF_VFA143_PukinDogs_Line", false};
 	{"f18c2_kil_right"					, SPECULAR				, "F18C_2_DIF_RoughMet", false};
 	{"f18c2_kil_right"					, DECAL					, "empty", true};	
 	
