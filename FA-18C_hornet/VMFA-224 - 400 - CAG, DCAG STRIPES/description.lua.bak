@@ -1,10 +1,10 @@
 livery = {
 	--Main Maps
 	{"f18c1", 0 ,"F18C_1_DIFF_VMFA_224_Bengals",false};
-	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",false};
 
 	{"f18c2", 0 ,"F18C_2_DIFF_VMFA_224_Bengals",false};
-	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",false};
 	
 	--Pilot Maps
 	{"pilot_F18_helmet", 0, "pilot_F18_helmet_VMFAAW224_bengal", false};
@@ -14,8 +14,8 @@ livery = {
 	
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"FPU_8A2",false};
-	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
+	{"FPU_8A", 0 ,"FPU_8A",false};
+	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_DIFF_RoughMet",false};	
 	
 	--*NEW 2.8.4 Bort Numbers*
 	--USN_MODEX_NOSE
@@ -56,5 +56,5 @@ custom_args = {
 	[1004] = 1.0, -- FINLAND_MODEX_FORWARD_FUSELAGE
 	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
 }
-name = "VMFA(AW)-224 Fighting Bengals - 400 - CAG BLUE STRIPES"
+name = "VMFA(AW)-224 Fighting Bengals - 400 - CAG / DCAG STRIPES"
 
