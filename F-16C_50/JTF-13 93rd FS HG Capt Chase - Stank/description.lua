@@ -38,7 +38,7 @@ livery = {
 	{"LAU_129", 0 ,"../JTF-13 93rd FS HG-Textures/LAU_129_diff",false};
 
 -- Tanques Combustible
-	{"Fuel_Tank_300Gal",	DIFFUSE			,	"../JTF-13 93rd FS HG-Textures/fuel_tank_300gal", false};
+	{"Fuel_Tank_300Gal",	DIFFUSE, "../JTF-13 93rd FS HG-Textures/fuel_tank_300gal", false};
 	{"Tank_370", DIFFUSE, "../JTF-13 93rd FS HG-Textures/fuel_tank_370gal_diff", false};
 
 --Motor
