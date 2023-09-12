@@ -20,44 +20,44 @@ livery = {
 	{"F-15E_03",	ROUGHNESS_METALLIC,	"F-15e_E03_RoughMet_COMBAT", true};
 	
 -- WING1
-	{"F-15E_04",	0,	                "F-15e_E04_C_COMBAT",			true};
+	{"F-15E_04",	0,	                "F-15e_E04_C_PotatoPlayer",			false};
 	{"F-15E_04",	1,	                "F-15e_E04_NRM",	true};
 	{"F-15E_04",	ROUGHNESS_METALLIC,	"F-15e_E04_C_RoughMet_COMBAT", true};
 --AILERON1	
-	{"F-15E_04AT",	0,	                "F-15e_E04_C_COMBAT",			true};
+	{"F-15E_04AT",	0,	                "F-15e_E04_C_PotatoPlayer",			false};
 	{"F-15E_04AT",	1,	                "F-15e_E04_NRM",	true};
 	{"F-15E_04AT",	ROUGHNESS_METALLIC,	"F-15e_E04_C_RoughMet_COMBAT", true};
 
-	{"F-15E_04AB",	0,	                "F-15e_E04_C_COMBAT",			true};
+	{"F-15E_04AB",	0,	                "F-15e_E04_C_PotatoPlayer",			false};
 	{"F-15E_04AB",	1,	                "F-15e_E04_NRM",	true};
 	{"F-15E_04AB",	ROUGHNESS_METALLIC,	"F-15e_E04_C_RoughMet_COMBAT", true};
 --FLAP1
-	{"F-15E_04FT",	0,	                "F-15e_E04_C_COMBAT",			true};
+	{"F-15E_04FT",	0,	                "F-15e_E04_C_PotatoPlayer",			false};
 	{"F-15E_04FT",	1,	                "F-15e_E04_NRM",	true};
 	{"F-15E_04FT",	ROUGHNESS_METALLIC,	"F-15e_E04_C_RoughMet_COMBAT", true};
 
-	{"F-15E_04FB",	0,	                "F-15e_E04_C_COMBAT",			true};
+	{"F-15E_04FB",	0,	                "F-15e_E04_C_PotatoPlayer",			false};
 	{"F-15E_04FB",	1,	                "F-15e_E04_NRM",	true};
 	{"F-15E_04FB",	ROUGHNESS_METALLIC,	"F-15e_E04_C_RoughMet_COMBAT", true};
 	
 -- WING2
-	{"F-15E_05",	0,	                "F-15e_E05_C_COMBAT",			true};
+	{"F-15E_05",	0,	                "F-15e_E05_C_PotatoPlayer",			false};
 	{"F-15E_05",	1,	                "F-15e_E05_NRM",	true};
 	{"F-15E_05",	ROUGHNESS_METALLIC,	"F-15e_E05_C_RoughMet_COMBAT", true};
 --ALIERON2												 
-	{"F-15E_05AT",	0,	                "F-15e_E05_C_COMBAT",			true};
+	{"F-15E_05AT",	0,	                "F-15e_E05_C_PotatoPlayer",			false};
 	{"F-15E_05AT",	1,	                "F-15e_E05_NRM",	true};
 	{"F-15E_05AT",	ROUGHNESS_METALLIC,	"F-15e_E05_C_RoughMet_COMBAT", true};
 
-	{"F-15E_05AB",	0,	                "F-15e_E05_C_COMBAT",			true};
+	{"F-15E_05AB",	0,	                "F-15e_E05_C_PotatoPlayer",			false};
 	{"F-15E_05AB",	1,	                "F-15e_E05_NRM",	true};
 	{"F-15E_05AB",	ROUGHNESS_METALLIC,	"F-15e_E05_C_RoughMet_COMBAT", true};		
 --FLAP2
-	{"F-15E_05FT",	0,	                "F-15e_E05_C_COMBAT",			true};
+	{"F-15E_05FT",	0,	                "F-15e_E05_C_PotatoPlayer",			false};
 	{"F-15E_05FT",	1,	                "F-15e_E05_NRM",	true};
 	{"F-15E_05FT",	ROUGHNESS_METALLIC,	"F-15e_E05_C_RoughMet_COMBAT", true};
 
-	{"F-15E_05FB",	0,	                "F-15e_E05_C_COMBAT",			true};
+	{"F-15E_05FB",	0,	                "F-15e_E05_C_PotatoPlayer",			false};
 	{"F-15E_05FB",	1,	                "F-15e_E05_NRM",	true};
 	{"F-15E_05FB",	ROUGHNESS_METALLIC,	"F-15e_E05_C_RoughMet_COMBAT", true};
 
