@@ -125,7 +125,7 @@ countries = {}
 custom_args = 
 {
 [1000] = 1.0, -- change of type of board number (0.0 -default USA, 0.1- )
-[1001] = 0.0, -- vis refuel board number 
+[1001] = 1.0, -- vis refuel board number 
 [1002] = 1.0, -- change of type intake board number 
 [1003] = 1.0, -- vis nouse board number
 [441] = 0.2,

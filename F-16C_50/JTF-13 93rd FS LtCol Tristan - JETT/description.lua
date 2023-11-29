@@ -115,7 +115,7 @@ livery = {
 
 
 }
-name = "JTF-13 93rd FS - LtCol Tristen - JETT"
+name = "JTF-13 93rd FS - LtCol Tristan - JETT"
 --Original Files "Flash", Enhanced by MaximusRZ OCT, 2023
 --Edited By Bryan "Flash" NOV/2023
 

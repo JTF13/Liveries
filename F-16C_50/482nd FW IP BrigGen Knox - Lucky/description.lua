@@ -93,14 +93,14 @@ livery = {
 --F16_bl50_NOUSE_DECAL
 	{"F16_bl50_MAT1_BORT_NUMBER_X100",	0,	                "f16_bl50_main_1",			false};
 	{"F16_bl50_MAT1_BORT_NUMBER_X100",	1,	                "../JTF-13 93rd FS - Makos Textures/f16_bl50_main_1_normal",	false};
-	{"F16_bl50_MAT1_BORT_NUMBER_X100",	ROUGHNESS_METALLIC,	"f16_bl50_main_1_roughmet, 	false"};
+	{"F16_bl50_MAT1_BORT_NUMBER_X100",	ROUGHNESS_METALLIC,	"f16_bl50_main_1_roughmet", 	false};
 	{"F16_bl50_MAT1_BORT_NUMBER_X100",	DECAL,	            "F16_bort_number", false};
 
 --F16_bl50_REFUEL_DECAL
-	{"F16_bl50_MAT1_BORT_NUMBER_DECAL",	0,	                "f16_bl50_main_1",			false};
-	{"F16_bl50_MAT1_BORT_NUMBER_DECAL",	1,	                "../JTF-13 93rd FS - Makos Textures/f16_bl50_main_1_normal",	false};
-	{"F16_bl50_MAT1_BORT_NUMBER_DECAL",	ROUGHNESS_METALLIC,	"f16_bl50_main_1_roughmet",	false};
-	{"F16_bl50_MAT1_BORT_NUMBER_DECAL",	DECAL,	            "F16_AF_87_Decal", false};
+    {"F16_bl50_MAT1_BORT_NUMBER_DECAL",	0,	                "../JTF-13 93rd FS HG-Textures/f16_bl50_main_1",			false};
+	{"F16_bl50_MAT1_BORT_NUMBER_DECAL",	1,	                "../JTF-13 93rd FS HG-Textures/f16_bl50_main_1_normal",	false};
+	{"F16_bl50_MAT1_BORT_NUMBER_DECAL",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS HG-Textures/f16_bl50_main_1_roughmet", false};
+	{"F16_bl50_MAT1_BORT_NUMBER_DECAL",	DECAL,	            "../JTF-13 93rd FS HG-Textures/F16_bort_number", false};
 
 --F16_bl50_NOUSE AND REFUEL BORT_NUMBER
 	{"F16_bl50_MAT1_BORT_NUMBER",	0,	                "f16_bl50_main_1",			false};
@@ -125,7 +125,7 @@ countries = {}
 custom_args = 
 {
 [1000] = 1.0, -- change of type of board number (0.0 -default USA, 0.1- )
-[1001] = 0.0, -- vis refuel board number 
+[1001] = 1.0, -- vis refuel board number 
 [1002] = 1.0, -- change of type intake board number 
 [1003] = 1.0, -- vis nouse board number
 [441] = 0.2,
