@@ -3,26 +3,26 @@ livery = {
 
 
     {"F16_bl50_Main_1", DIFFUSE, "f16_bl50_main_1", false};
-	{"F16_bl50_Main_1", 1, "../JTF-13 93rd FS HG-Textures/f16_bl50_main_1_normal", false};
+	{"F16_bl50_Main_1", 1, "../JTF-13 93rd FS - Makos Textures/f16_bl50_main_1_normal", false};
 	{"F16_bl50_Main_1",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS HG-Textures/f16_bl50_main_1_roughmet", false};
   
 	{"F16_bl50_Main_2", DIFFUSE, "../JTF-13 93rd FS HG-Textures/f16_bl50_main_2", false};
-	{"F16_bl50_Main_2", 1, "../JTF-13 93rd FS HG-Textures/f16_bl50_main_2_normal", false};
+	{"F16_bl50_Main_2", 1, "../JTF-13 93rd FS - Makos Textures/f16_bl50_main_2_normal", false};
 	{"F16_bl50_Main_2",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS HG-Textures/f16_bl50_main_2_roughmet", false};
 
 	{"F16_bl50_Main_3", DIFFUSE, "../JTF-13 93rd FS HG-Textures/f16_bl50_main_3", false};
-	{"F16_bl50_Main_3", 1, "../JTF-13 93rd FS HG-Textures/f16_bl50_main_3_normal", false};
+	{"F16_bl50_Main_3", 1, "../JTF-13 93rd FS - Makos Textures/f16_bl50_main_3_normal", false};
    	{"F16_bl50_Main_3",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS HG-Textures/f16_bl50_main_3_roughmet", false};
 	
 	{"F16_bl50_Kil", DIFFUSE, "../JTF-13 93rd FS HG-Textures/f16_bl50_kil", false};
-	{"F16_bl50_Kil",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS HG-Textures/f16_bl50_kil_roughmet", false};
+	{"F16_bl50_Kil",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS - Makos Textures/f16_bl50_kil_roughmet", false};
 
    	{"F16_bl50_wing_L", DIFFUSE, "../JTF-13 93rd FS HG-Textures/f16_bl50_wing_l", false};
-	{"F16_bl50_wing_L", 1, "../JTF-13 93rd FS HG-Textures/f16_bl50_wing_l_normal", false};
+	{"F16_bl50_wing_L", 1, "../JTF-13 93rd FS - Makos Textures/f16_bl50_wing_l_normal", false};
    	{"F16_bl50_wing_L",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS HG-Textures/f16_bl50_wing_l_roughmet", false};
 
 	{"F16_bl50_wing_R", DIFFUSE, "../JTF-13 93rd FS HG-Textures/f16_bl50_wing_r", false};
-	{"F16_bl50_wing_R", 1, "../JTF-13 93rd FS HG-Textures/f16_bl50_wing_r_normal", false};
+	{"F16_bl50_wing_R", 1, "../JTF-13 93rd FS - Makos Textures/f16_bl50_wing_r_normal", false};
   	{"F16_bl50_wing_R",	ROUGHNESS_METALLIC,	"../JTF-13 93rd FS HG-Textures/f16_bl50_wing_r_roughmet", false};
 
 
@@ -33,14 +33,17 @@ livery = {
 	{"Fuel_Tank_300Gal",	DIFFUSE			,	"../JTF-13 93rd FS HG-Textures/fuel_tank_300gal", false};
 	{"Tank_370", DIFFUSE, "../JTF-13 93rd FS HG-Textures/fuel_tank_370gal_diff", false};
 
-	{"F16_bl50_Engine", 0, "../JTF-13 93rd FS HG-Textures/f16_bl50_engine", false};
-	{"F16_bl50_Engine", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS HG-Textures/F16_bl50_Engine_RoughMet",false};
+--AAQ28
+	{"AAQ_28", DIFFUSE, "../AAQ28/Makos2AAQ_28_diff", false};
 
-	{"pilot_F16", 0, "../JTF-13 93rd FS HG-Textures/pilot_F16", false};
-	{"pilot_F16_helmet", 0, "../JTF-13 93rd FS HG-Textures/pilot_F16_helmet",false};
-	{"pilot_F16_patch", 0 ,"../JTF-13 93rd FS HG-Textures/pilot_F16_patch",false};
-	{"pilot_F16_patch", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS HG-Textures/pilot_F16_patch_roughmet",false};
-	{"pilot_F16_patch", 1 ,"../JTF-13 93rd FS HG-Textures/pilot_F16_patch_normal",false};
+	{"F16_bl50_Engine", 0, "../JTF-13 93rd FS - Makos Textures/f16_bl50_engine", false};
+	{"F16_bl50_Engine", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/F16_bl50_Engine_RoughMet",false};
+
+	{"pilot_F16", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16", false};
+	{"pilot_F16_helmet", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16_helmet",false};
+	{"pilot_F16_patch", 0 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch",false};
+	{"pilot_F16_patch", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_roughmet",false};
+	{"pilot_F16_patch", 1 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_normal",false};
 
 	{"PTB_300Gal", 0, "../JTF-13 93rd FS HG-Textures/fuel_tank_300gal", false};
 	{"PTB_300Gal", 1, "../JTF-13 93rd FS HG-Textures/Fuel_Tank_300Gal_Normal", false};
