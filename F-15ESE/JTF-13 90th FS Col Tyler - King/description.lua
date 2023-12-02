@@ -186,7 +186,7 @@ livery = {
 
 
 --F-15E_REFUEL-DECAL	
-    {"F-15E_REFUEL-DECAL",	0,	                "REFUEL_AK-15-5",				false};
+    {"F-15E_REFUEL-DECAL",	0,	                "REFUEL_AK-93-2",				false};
 
 
 --F-15E_REFUEL-NUMBER
@@ -194,7 +194,7 @@ livery = {
 
 
 --F-15E_TAIL-DECAL
-    {"F-15E_TAIL-DECAL",	0,	                "TAIL_AK-15-5",				false};
+    {"F-15E_TAIL-DECAL",	0,	                "TAIL_AK-93-2",				false};
 	
 --F-15E_TAIL-DECAL-L	
     {"F-15E_TAIL-DECAL-L",	0,	                "F-15E_E06_A_COMBAT",					true};
@@ -293,14 +293,14 @@ livery = {
 
 
 
-name = "JTF-13 90th FS Col Tyler - King"  --5832
+name = "JTF-13 90th FS Col Tyler - King"  --2106
 countries = {"USA"}
 
 custom_args = 
 {
-[32]   = 0.2, -- 1
-[31]   = 0.3, -- 10
-[442]  = 0.8, -- 100 
+[32]   = 0.6, -- 1
+[31]   = 0.0, -- 10
+[442]  = 0.1, -- 100 
 [1000] = 0.0, -- change of type of board number (0.0 - No Numbers, 0.1 - 3 Numbers, 0.2 - 4 Numbers starts with "1", 0.3 - Full 4 Numbers)
 [1001] = 0.1, -- vis refuel board number (0.0 - No Numbers, 0.1 Numbers, 0.2 - Numbers Early)
 [1002] = 0.45, -- change of type intake board number 
