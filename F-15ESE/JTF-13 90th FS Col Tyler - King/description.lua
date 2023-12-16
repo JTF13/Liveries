@@ -106,7 +106,11 @@ livery = {
 	{"F-15EC_03",	0,	                "F-15I_EC03-IDF-69",			false};
 	{"F-15EC_03",	1,	                "F-15E_EC03_NRM",	true};
 	{"F-15EC_03",	ROUGHNESS_METALLIC,	"F-15E_EC03_RoughMet", true};	
-	
+
+-- DROP TANKS
+	{"F-15E_13",	0,	                "E13",			false};
+	{"F-15E_13",	1,	                "F-15E_E13_NRM",	true};
+	{"F-15E_13",	ROUGHNESS_METALLIC,	"F-15E_E13_RoughMet", true};
 	
 --COCKPIT---------------------------------------------------------------------------------------
 
