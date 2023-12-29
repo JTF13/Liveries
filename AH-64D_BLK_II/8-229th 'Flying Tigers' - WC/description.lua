@@ -6,11 +6,11 @@ livery = {
 	{"AH-64D_bottom_2",	   				0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_FT",                			false};
 	{"AH-64D_bottom_2_RoughMet",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_RoughMet_FT",              	false};
 	
-	{"AH-64D_balka_1",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_FT",               			false};
-	{"AH-64D_balka_1_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_RoughMet_FT",               	false};
+	{"AH-64D_balka_1",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_Sqdrn",               			false};
+	{"AH-64D_balka_1_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_RoughMet_Sqdrn",               false};
 	
-	{"AH-64D_balka_2",	    			0,			"AH-64D_balka_2_WC",               															false};
-	{"AH-64D_balka_2_RoughMet",	    	0,			"AH-64D_balka_2_RoughMet_WC",            												   	false};
+	{"AH-64D_balka_2",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_Sqdrn",               			false};
+	{"AH-64D_balka_2_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_RoughMet_Sqdrn",            	false};
 	
 	{"AH-64D_front",	    			0,			"AH-64D_front_WC",               															false};
 	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_WC",               													false};
