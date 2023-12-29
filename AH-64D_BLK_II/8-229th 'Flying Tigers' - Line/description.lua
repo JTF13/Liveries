@@ -1,13 +1,13 @@
 livery = {
 	
-	--{"AH-64D_bottom_1",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_1_FT",              			false};
-	--{"AH-64D_bottom_1_RoughMet",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_1_RoughMet_FT",              	false};
+	{"AH-64D_bottom_1",	    		0,				"AH-64D_bottom_1_Line",              															false};
+	{"AH-64D_bottom_1_RoughMet",	    0,			"AH-64D_bottom_1_RoughMet_Line",              												false};
 	
-	--{"AH-64D_bottom_2",	   				0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_FT",                			false};
-	--{"AH-64D_bottom_2_RoughMet",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_RoughMet_FT",              	false};
+	{"AH-64D_bottom_2",	   			0,				"AH-64D_bottom_2_Line",                														false};
+	{"AH-64D_bottom_2_RoughMet",	    0,			"AH-64D_bottom_2_RoughMet_Line",              												false};
 	
-	{"AH-64D_balka_1",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_FT",               			false};
-	{"AH-64D_balka_1_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_RoughMet_FT",               	false};
+	{"AH-64D_balka_1",	    			0,			"AH-64D_balka_1_Line",               															false};
+	{"AH-64D_balka_1_RoughMet",	    	0,			"AH-64D_balka_1_RoughMet_Line",               												    false};
 	
 	{"AH-64D_balka_2",	    			0,			"AH-64D_balka_2_Line",               														false};
 	{"AH-64D_balka_2_RoughMet",	    	0,			"AH-64D_balka_2_RoughMet_Line",            												   	false};
@@ -15,15 +15,14 @@ livery = {
 	{"AH-64D_front",	    			0,			"AH-64D_front_Line",               															false};
 	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_Line",               												false};
 	
-	--{"AH-64D_engine_1",	    			0,			"AH-64D_engine_1_WC",               														false};
-	--{"AH-64D_engine_1_RoughMet",	    0,			"AH-64D_engine_1_RoughMet_WC",              												false};
-	
     {"AH-64D_pilot_body",				0,	        "../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_body_FT",            			false};
     {"AH-64D_pilot_details",			0,	       	"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_details_FT", 					false};
 	
 	{"AH-64D_pilot_patch",	DIFFUSE,				"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_patch_airborne", 				false};
 	{"AH-64D_pilot_patch",	NORMAL_MAP,				"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_patch_airborne_Normal", 			false};
 	{"AH-64D_pilot_patch",	ROUGHNESS_METALLIC,		"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_patch_airborne_RoughMet",		false};
+	
+	{"AH-64D_pilot_helmet_shell",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_JTF13_pilot_helmet_shell",             false};
 }
 
 name = "8-229th 'Flying Tigers' - Line"
