@@ -31,7 +31,7 @@ livery = {
 	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_Ruiner", 																		false};
 }
 
-name = "8-229th 'Flying Tigers' - Ruiner"
+name = "8-229th 'Flying Tigers' - XO - Ruiner"
 countries = {"USA",}
 
 custom_args = 

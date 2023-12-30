@@ -27,7 +27,8 @@ livery = {
 	{"ah-64d_cpt20",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_cpt20_JTF13", 							false};
 	
 	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_Dashboard_Potter", 															false};
-	{"ah-64d_cpt03_788",		DIFFUSE,			"ah-64d_cpt03_Leviosah_Potter", 															false};
+	{"ah-64d_cpt03_788",		  DIFFUSE,			"ah-64d_cpt03_Leviosah_Potter", 															false};
+	{"ah-64d_cpt03_789",		  DIFFUSE,			"ah-64d_cpt03_Leviosah_Potter", 															false};
 }
 
 name = "8-229th 'Flying Tigers' - Potter"

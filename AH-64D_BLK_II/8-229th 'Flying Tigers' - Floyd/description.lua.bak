@@ -12,8 +12,8 @@ livery = {
 	{"AH-64D_balka_2",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_Sqdrn",               			false};
 	{"AH-64D_balka_2_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_RoughMet_Sqdrn",            	false};
 	
-	{"AH-64D_front",	    			0,			"AH-64D_front_Line",               															false};
-	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_Line",               												false};
+	{"AH-64D_front",	    			0,			"AH-64D_front_Floyd",               															false};
+	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_Floyd",               												false};
 	
     {"AH-64D_pilot_body",				0,	        "../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_body_FT",            			false};
     {"AH-64D_pilot_details",			0,	       	"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_details_FT", 					false};

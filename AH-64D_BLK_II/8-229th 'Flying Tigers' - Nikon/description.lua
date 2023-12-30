@@ -23,9 +23,10 @@ livery = {
 	{"AH-64D_pilot_patch",	ROUGHNESS_METALLIC,		"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_patch_airborne_RoughMet",		false};
 	
 	{"AH-64D_pilot_helmet_shell",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_JTF13_pilot_helmet_shell",             false};
-	{"ah-64d_cpt10",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_NameBoard_JTF13", 					false};
-	{"ah-64d_cpt20",			  DIFFUSE,			"ah-64d_cpt20_Nikon", 																		false};
+	{"ah-64d_cpt24",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_cpt24_NameBoard_Door", 				false};
+	{"ah-64d_cpt20",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_cpt20_JTF13", 							false};
 	
+	{"ah-64d_cpt10",			  DIFFUSE,			"ah-64d_cpt10_Front_Panel_Nikon", 															false};
 	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_Dashboard_Nikon", 															false};
 	{"ah-64d_cpt04_789",		  DIFFUSE,			"ah-64d_cpt04_Panels_Nikon", 																false};
 	
