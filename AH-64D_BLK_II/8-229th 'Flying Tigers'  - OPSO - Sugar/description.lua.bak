@@ -31,7 +31,7 @@ livery = {
 	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_Dashboard_Sugar", 															false};
 }
 
-name = "8-229th 'Flying Tigers' - Sugar"
+name = "8-229th 'Flying Tigers' - OPSO - Sugar"
 countries = {"USA",}
 
 custom_args = 
