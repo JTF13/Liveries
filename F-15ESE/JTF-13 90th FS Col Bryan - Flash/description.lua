@@ -97,11 +97,6 @@ livery = {
 	{"F-15E_08",	0,	                "F-15e_E08_COMBAT",			true};
 	{"F-15E_08",	1,	                "F-15e_E08_NRM",	true};
 	{"F-15E_08",	ROUGHNESS_METALLIC,	"F-15e_E08_RoughMet_COMBAT", true};
-
--- DROP TANKS
-	{"F-15E_13",	0,	                "E13",			false};
-	{"F-15E_13",	1,	                "F-15E_E13_NRM",	true};
-	{"F-15E_13",	ROUGHNESS_METALLIC,	"F-15E_E13_RoughMet", true};	
 	
 --COCKPIT---------------------------------------------------------------------------------------
 
@@ -227,9 +222,9 @@ livery = {
 	{"F-15EC_06",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07",	0,	                "F-15E_EC07A3",					true};
-	{"F-15EC_07",	1,	                "F-15E_EC07A_NRM",				true};
-	{"F-15EC_07",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
+	{"F-15EC_07",	0,	                "F-15E_EC07A3",					false};
+	{"F-15EC_07",	1,	                "F-15E_EC07A3_NRM",				false};
+	{"F-15EC_07",	ROUGHNESS_METALLIC,	"F-15E_EC07A3_RoughMet", 		false};
 --    {"F-15EC_07",	DECAL,	            "F-15EC_07_Decal",			true};
 
 --WSO
