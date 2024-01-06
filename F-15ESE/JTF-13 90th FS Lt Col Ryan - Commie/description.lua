@@ -155,9 +155,9 @@ livery = {
 	{"F-15EC_06",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07",	0,	                "F-15E_EC07A4",					true};
-	{"F-15EC_07",	1,	                "F-15E_EC07A_NRM",				true};
-	{"F-15EC_07",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
+	{"F-15EC_07",	0,	                "F-15E_EC07A3",					false};
+	{"F-15EC_07",	1,	                "F-15E_EC07A3_NRM",				false};
+	{"F-15EC_07",	ROUGHNESS_METALLIC,	"F-15E_EC07A3_RoughMet", 		false};
 --    {"F-15EC_07",	DECAL,	            "F-15EC_07_Decal",			true};
 
 --WSO
