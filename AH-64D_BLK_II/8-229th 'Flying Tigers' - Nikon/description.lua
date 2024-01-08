@@ -33,6 +33,10 @@ livery = {
 	{"ah-64d_cpt-glass-canopy",		   14,			"ah-64d_cpt_glass_dif_Nikon", 																false};
 	{"ah-64d_cpt-glass",			   14,			"ah-64d_cpt_glass_dif_Nikon", 																false};
 	
+	{"ah-64d_cpt03_787",		  DIFFUSE,			"ah-64d_cpt03_Nikon", 																		false};
+	{"ah-64d_cpt03_788",		  DIFFUSE,			"ah-64d_cpt03_Nikon", 																		false};
+	{"ah-64d_cpt03_789",		  DIFFUSE,			"ah-64d_cpt03_Nikon", 																		false};
+	
 }
 
 name = "8-229th 'Flying Tigers' - Nikon"
