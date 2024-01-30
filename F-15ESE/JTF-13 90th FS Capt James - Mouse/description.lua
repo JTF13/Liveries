@@ -123,13 +123,13 @@ livery = {
     {"F-15E_TAIL-DECAL-L",	0,	                "F-15E_E06_A_COMBAT",					true};
 	{"F-15E_TAIL-DECAL-L",	1,	                "F-15e_E06_NRM",				true};
 	{"F-15E_TAIL-DECAL-L",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", 			true};
-    {"F-15E_TAIL-DECAL-L",	DECAL,	            "F-15E_TAIL_AF-91-0",			true};
+    {"F-15E_TAIL-DECAL-L",	DECAL,	            "empty",			false};
 	
 --F-15E_TAIL-DECAL-R
     {"F-15E_TAIL-DECAL-R",	0,	                "F-15E_E06_A_COMBAT",					true};
 	{"F-15E_TAIL-DECAL-R",	1,	                "F-15e_E06_NRM",				true};
 	{"F-15E_TAIL-DECAL-R",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", 			true};
-    {"F-15E_TAIL-DECAL-R",	DECAL,	            "F-15E_TAIL_AF-91-0",			true};
+    {"F-15E_TAIL-DECAL-R",	DECAL,	            "empty",			false};
 	
 --F-15E_TAIL-NUMBER                             
     {"F-15E_TAIL-NUMBER",	0,	                "F-15E_BLK_Numbers",			true};
@@ -138,13 +138,13 @@ livery = {
 	{"F-15E_TAIL-NUMBER-L",	0,	                "F-15E_E06_A_COMBAT",					true};
 	{"F-15E_TAIL-NUMBER-L",	1,	                "F-15e_E06_NRM",				true};
 	{"F-15E_TAIL-NUMBER-L",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", 			true};
-    {"F-15E_TAIL-NUMBER-L",	DECAL,	            "F-15E_BLK_Numbers",			true};
+    {"F-15E_TAIL-NUMBER-L",	DECAL,	            "empty",			true};
 
 --F-15E_TAIL-NUMBER-R                            
 	{"F-15E_TAIL-NUMBER-R",	0,	                "F-15E_E06_A_COMBAT",					true};
 	{"F-15E_TAIL-NUMBER-R",	1,	                "F-15e_E06_NRM",				true};
 	{"F-15E_TAIL-NUMBER-R",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", 			true};
-    {"F-15E_TAIL-NUMBER-R",	DECAL,	            "F-15E_BLK_Numbers",			true};
+    {"F-15E_TAIL-NUMBER-R",	DECAL,	            "empty",			true};
 	
 --PILOT
 	{"F-15EC_05",	0,	                "F-15E_EC05B2",					true};
@@ -224,7 +224,7 @@ custom_args =
 [32]   = 0.7, -- 1
 [31]   = 0.8, -- 10
 [442]  = 0.4, -- 100 
-[1000] = 0.1, -- change of type of board number (0.0 - No Numbers, 0.1 - 3 Numbers, 0.2 - 4 Numbers starts with "1", 0.3 - Full 4 Numbers)
+[1000] = 0.0, -- change of type of board number (0.0 - No Numbers, 0.1 - 3 Numbers, 0.2 - 4 Numbers starts with "1", 0.3 - Full 4 Numbers)
 [1001] = 0.1, -- vis refuel board number (0.0 - No Numbers, 0.1 Numbers, 0.2 - Numbers Early)
 [1002] = 0.0, -- change of type intake board number 
 [1003] = 0.02, -- vis Nose Gear board number (0.0 - 4 Numbers 0.0 to 0.05 adjusts the placement, 0.1 - 5 Numbers)
