@@ -8,7 +8,7 @@ livery = {
 {"HB_F14_WING_LEFT_01",       0,                    "../../f-14b/VF-103 - 101 - Whoopsie/HB_F14_WING_LEFT",                            false};
 {"HB_F14_WING_RIGHT",         0,                    "../../f-14b/VF-103 - 101 - Whoopsie/HB_F14_WING_RIGHT",                           false};
 {"HB_F14_LOD1_3in1",          0,                    "../../f-14b/VF-103 - 101 - Whoopsie/HB_F14_LOD1_3in1",                            false};
-{"HB_F14_LOD3_3in1",          0,                    "../../f-14b/VF-103 - 101 - Whoopsie/HB_F14_LOD3_3in1",                            false};
+--{"HB_F14_LOD3_3in1",          0,                    "../../f-14b/VF-103 - 101 - Whoopsie/HB_F14_LOD3_3in1",                           false};
 {"HB_F14_EXT_PILOT_HELMET",   0,                    "../../f-14b/VF-103 - 000 - Line/Helmets/Custom/JTF_F14_HELMET_WHOOPSIE",          false};
 {"HB_F14_EXT_PILOT_HELMET",   1,                    "../../f-14b/VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_NORMAL_MAP",     false};
 {"HB_F14_EXT_PILOT_HELMET",   ROUGHNESS_METALLIC,   "../../f-14b/VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_ROUGHMET",       false};
@@ -26,4 +26,4 @@ name = "VF-103 - 101 - Whoopsie"
 -- Maintained by
 -- Jesse "Null" Booth
 -- JTF-13
--- Last Edit 2022.10.16 (by Shodan)
+-- Last Edit 2024.02.06(by Shodan)
