@@ -1,10 +1,10 @@
 livery = {
 	
-	{"AH-64D_bottom_1",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_1_Sqdrn",              			false};
-	{"AH-64D_bottom_1_RoughMet",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_1_RoughMet_Sqdrn",              false};
+	{"AH-64D_bottom_1",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_1_FT",              			false};
+	{"AH-64D_bottom_1_RoughMet",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_1_RoughMet_FT",              	false};
 	
-	{"AH-64D_bottom_2",	   				0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_Sqdrn",                		false};
-	{"AH-64D_bottom_2_RoughMet",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_RoughMet_Sqdrn",              false};
+	{"AH-64D_bottom_2",	   				0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_FT",                			false};
+	{"AH-64D_bottom_2_RoughMet",	    0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_bottom_2_RoughMet_FT",              	false};
 	
 	{"AH-64D_balka_1",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_Sqdrn",               			false};
 	{"AH-64D_balka_1_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_1_RoughMet_Sqdrn",               false};
@@ -12,8 +12,11 @@ livery = {
 	{"AH-64D_balka_2",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_Sqdrn",               			false};
 	{"AH-64D_balka_2_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_RoughMet_Sqdrn",            	false};
 	
-	{"AH-64D_front",	    			0,			"AH-64D_front_Fumes",               														false};
-	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_Fumes",               												false};
+	{"AH-64D_front",	    			0,			"AH-64D_front_McFly",               													false};
+	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_McFly",               											false};
+	
+	{"AH-64D_engine_1",	    			0,			"AH-64D_engine_1_WC",               													    false};
+	{"AH-64D_engine_1_RoughMet",	    0,			"AH-64D_engine_1_RoughMet_WC",              												false};
 	
     {"AH-64D_pilot_body",				0,	        "../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_body_FT",            			false};
     {"AH-64D_pilot_details",			0,	       	"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_details_FT", 					false};
@@ -26,12 +29,15 @@ livery = {
 	{"ah-64d_cpt24",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_cpt24_NameBoard_Door", 				false};
 	{"ah-64d_cpt20",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_cpt20_JTF13", 							false};
 	
-	{"ah-64d_cpt10",			  DIFFUSE,			"ah-64d_cpt10_Front_Panel_Fumes", 															false};
-	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_Dashboard_Fumes", 															false};
+	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_McFly", 																		false};
+	
+	{"ah-64d_cpt03_787",		  DIFFUSE,			"ah-64d_cpt03_88mph_Marty", 																false};
+	{"ah-64d_cpt03_788",		  DIFFUSE,			"ah-64d_cpt03_88mph_Marty", 																false};
+	{"ah-64d_cpt03_789",		  DIFFUSE,			"ah-64d_cpt03_88mph_Marty", 																false};
 	
 }
 
-name = "8-229th 'Flying Tigers' - Fumes"
+name = "8-229th 'Flying Tigers' - CO - McFly"
 countries = {"USA",}
 
 custom_args = 

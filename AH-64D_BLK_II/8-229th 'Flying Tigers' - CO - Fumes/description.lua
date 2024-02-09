@@ -12,11 +12,11 @@ livery = {
 	{"AH-64D_balka_2",	    			0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_Sqdrn",               			false};
 	{"AH-64D_balka_2_RoughMet",	    	0,			"../8-229th 'Flying Tigers' - Common Textures/AH-64D_balka_2_RoughMet_Sqdrn",            	false};
 	
-	{"AH-64D_front",	    			0,			"AH-64D_front_WC_Goosy",               														false};
-	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_WC_Goosy",               											false};
+	{"AH-64D_front",	    			0,			"AH-64D_front_Fumes",               														false};
+	{"AH-64D_front_RoughMet",	    	0,			"AH-64D_front_RoughMet_Fumes",               												false};
 	
-	{"AH-64D_engine_1",	    			0,			"AH-64D_engine_1_WC",               														false};
-	{"AH-64D_engine_1_RoughMet",	    0,			"AH-64D_engine_1_RoughMet_WC",              												false};
+	{"AH-64D_engine_1",	    			0,			"AH-64D_engine_1_FT6",               													    false};
+	{"AH-64D_engine_1_RoughMet",	    0,			"AH-64D_engine_1_RoughMet_FT6",              												false};
 	
     {"AH-64D_pilot_body",				0,	        "../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_body_FT",            			false};
     {"AH-64D_pilot_details",			0,	       	"../8-229th 'Flying Tigers' - Common Textures/AH-64D_pilot_details_FT", 					false};
@@ -29,12 +29,12 @@ livery = {
 	{"ah-64d_cpt24",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_cpt24_NameBoard_Door", 				false};
 	{"ah-64d_cpt20",			  DIFFUSE,			"../8-229th 'Flying Tigers' - Common Textures/ah-64d_cpt20_JTF13", 							false};
 	
-	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_Goosy", 																	false};
-	
+	{"ah-64d_cpt10",			  DIFFUSE,			"ah-64d_cpt10_Front_Panel_Fumes", 															false};
+	{"ah-64d_cpt14",			  DIFFUSE,			"ah-64d_cpt14_Dashboard_Fumes", 															false};
 	
 }
 
-name = "8-229th 'Flying Tigers' - WC - Goosy"
+name = "8-229th 'Flying Tigers' - Fumes"
 countries = {"USA",}
 
 custom_args = 
