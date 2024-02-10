@@ -7,7 +7,9 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet", 0, "pilot_F18_helmet1", false};
+	{"pilot_F18_helmet_HGU68", 0, "pilot_f18_helmet",false};
+	{"pilot_F18_helmet_HGU68", 1, "pilot_f18_helmet_nm",false};
+	{"pilot_F18_helmet_HGU68", ROUGHNESS_METALLIC, "pilot_f18_helmet_roughmet",false};
 	{"pilot_F18_patch", 0 ,"Hornet_Pilot_Patch",false};
 	{"pilot_F18", 0 ,"pilot_F18",false};
 	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};

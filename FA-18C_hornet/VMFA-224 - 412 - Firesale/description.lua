@@ -7,10 +7,11 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet", 0, "../VMFA-224 - 000 - Line/pilot_F18_helmet2", false};
+	{"pilot_F18_helmet_HGU68", 0, "../VMFA-224 - 000 - Line/pilot_f18_helmet",false};
+	{"pilot_F18_helmet_HGU68", 1, "../VMFA-224 - 000 - Line/pilot_f18_helmet_nm",false};
+	{"pilot_F18_helmet_HGU68", ROUGHNESS_METALLIC, "../VMFA-224 - 000 - Line/pilot_f18_helmet_roughmet",false};
 	{"pilot_F18_patch", 0 ,"../VMFA-224 - 000 - Line/Hornet_Pilot_Patch",false};
-	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",false};
-	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
+
 	
 	--Grey Naval bombs
 	{"GBU_12",	DIFFUSE			,	"gbu_12t_gray_diff", true};
