@@ -10,7 +10,11 @@ livery = {
 	{"pilot_F18_patch", 0 ,"../VFA-143Textures/Pilot_F18_Patch_PukinDogs",false};
 	{"pilot_F18_patch", 1 ,"../VFA-143Textures/Pilot_F18_Patch_NORM_PukinDogs",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"../VFA-143Textures/Pilot_F18_Patch_PukinDogs_RoughMet",false};
-	{"pilot_F18_helmet", 0, "../VFA-143Textures/PILOT_F18_HELMET_VFA_DEFAULT", false};
+	{"pilot_F18_helmet_HGU68", 0 ,"../VFA-143Textures/pilot_F18_helmet",false};
+    {"pilot_F18_helmet_HGU68", ROUGHNESS_METALLIC ,"../VFA-143Textures/pilot_f18_helmet_roughmet",false};
+    {"pilot_F18_helmet_HGU68", 1 ,"../VFA-143Textures/pilot_F18_helmet_nm",false};
+	{"pilot_F18_helmet_glass", 0, "../VFA-143Textures/pilot_f18_visor", false};
+    {"pilot_F18_helmet_glass", 13 ,"../VFA-143Textures/pilot_f18_visor_roughmet", false};
 	
 	--Grey Naval bombs
 	{"GBU_12",	DIFFUSE			,	"gbu_12t_gray_diff", true};
@@ -38,7 +42,7 @@ livery = {
 	{"GBU_16", ROUGHNESS_METALLIC, "gbu_16t_gray_diff_roughmet", true};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"../VFA-143Textures/FPU_8A_PukinDogs_Line",false};
+	{"FPU_8A", 0 ,"FPU_8A_PukinDogs_CO",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
 	
 	--*NEW 2.8.4 Bort Numbers*

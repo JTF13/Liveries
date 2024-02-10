@@ -7,9 +7,9 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",false};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet_HGU68",    DIFFUSE            ,    "pilot_f18_helmet_hotpocket", false};
-    {"pilot_F18_helmet_HGU68",    NORMAL_MAP        ,    "pilot_f18_helmet_normal", false};
-    {"pilot_F18_helmet_HGU68",    13            ,    "pilot_F18_helmet_roughmet", false};
+	{"pilot_F18_helmet_HGU68",    DIFFUSE            ,    "pilot_f18_helmet_pocket", false};
+	{"pilot_F18_helmet_HGU68", 1, "../VMFA-224 - 000 - Line/pilot_f18_helmet_nm",false};
+	{"pilot_F18_helmet_HGU68", ROUGHNESS_METALLIC, "../VMFA-224 - 000 - Line/pilot_f18_helmet_roughmet",false};
 	{"pilot_F18_patch", 0 ,"../VMFA-224 - 000 - Line/Hornet_Pilot_Patch",false};
 	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",false};
 	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
@@ -82,5 +82,5 @@ custom_args = {
 	[1004] = 1.0, -- FINLAND_MODEX_FORWARD_FUSELAGE
 	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
 }
-name = "VMFA(AW)-224 Fighting Bengals - 401 - Pocket - CO Stripes"
+name = "VMFA(AW)-224 Fighting Bengals - 400 - Pocket - CAG Stripes"
 

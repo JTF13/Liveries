@@ -7,7 +7,9 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet", 0, "pilot_f18_helmet_hotpocket", false};
+	{"pilot_F18_helmet_HGU68", 0, "../VMFA-224 - 000 - Line/pilot_f18_helmet",false};
+	{"pilot_F18_helmet_HGU68", 1, "../VMFA-224 - 000 - Line/pilot_f18_helmet_nm",false};
+	{"pilot_F18_helmet_HGU68", ROUGHNESS_METALLIC, "../VMFA-224 - 000 - Line/pilot_f18_helmet_roughmet",false};
 	{"pilot_F18_patch", 0 ,"../VMFA-224 - 000 - Line/Hornet_Pilot_Patch",false};
 	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",true};
 	{"pilot_F18", 2 ,"pilot_F18_patch_roughmet",false};
@@ -83,5 +85,5 @@ custom_args = {
 	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
 }
 
-name = "VMFA(AW)-224 Fighting Bengals - 401 - Pocket - CO HiViz"
+name = "VMFA(AW)-224 Fighting Bengals - 401 - Legs - CO HiViz"
 

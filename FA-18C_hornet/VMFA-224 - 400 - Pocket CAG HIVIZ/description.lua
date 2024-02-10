@@ -7,11 +7,11 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet", 0, "pilot_f18_helmet_hotpocket", false};
+	{"pilot_F18_helmet_HGU68",    DIFFUSE            ,    "pilot_f18_helmet_pocket", false};
+	{"pilot_F18_helmet_HGU68", 1, "../VMFA-224 - 000 - Line/pilot_f18_helmet_nm",false};
+	{"pilot_F18_helmet_HGU68", ROUGHNESS_METALLIC, "../VMFA-224 - 000 - Line/pilot_f18_helmet_roughmet",false};
 	{"pilot_F18_patch", 0 ,"../VMFA-224 - 000 - Line/Hornet_Pilot_Patch",false};
-	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",true};
-	{"pilot_F18", 2 ,"pilot_F18_patch_roughmet",false};
-	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
+
 	
 	--Grey Naval bombs
 	{"GBU_12",	DIFFUSE			,	"gbu_12t_gray_diff", true};
@@ -39,8 +39,8 @@ livery = {
 	{"GBU_16", ROUGHNESS_METALLIC, "gbu_16t_gray_diff_roughmet", true};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"FPU_8A2",false};
-	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
+	{"FPU_8A", 0 ,"../VMFA-224 - 000 - Line/FPU_8A2",false};
+	{"FPU_8A", ROUGHNESS_METALLIC ,"../VMFA-224 - 000 - Line/FPU_8A_Diff_RoughMet",false};	
 	
 	
 	--*NEW 2.8.4 Bort Numbers*
