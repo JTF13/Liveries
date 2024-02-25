@@ -40,7 +40,7 @@ livery = {
 	
 	--Fuel Tanks
 	{"FPU_8A", 0 ,"../VMFA-224 - 000 - Line/FPU_8A2",false};
-	{"FPU_8A", ROUGHNESS_METALLIC ,"../VMFA-224 - 000 - Line/FPU_8A_Diff_RoughMet",true};	
+	{"FPU_8A", ROUGHNESS_METALLIC ,"../VMFA-224 - 000 - Line/FPU_8A_Diff_RoughMet",false};	
 	
 	
 	--*NEW 2.8.4 Bort Numbers*
