@@ -6,7 +6,7 @@ livery = {
 {"HB_F14_EXT_04",             0,                    "../../f-14b/VF-103 - 000 - Line/HB_F14_EXT_04",                              false};
 {"HB_F14_EXT_TAIL",           0,                    "../../f-14b/VF-103 - 113 - Deere/HB_F14_EXT_TAIL",                          false};
 {"HB_F14_WING_LEFT_01",       0,                    "../../f-14b/VF-103 - 113 - Deere/HB_F14_WING_LEFT",                         false};
-{"HB_F14_WING_RIGHT",         0,                    "../../f-14b/VF-103 - 113 - Sync/HB_F14_WING_RIGHT",                        false};
+{"HB_F14_WING_RIGHT",         0,                    "../../f-14b/VF-103 - 113 - Deere/HB_F14_WING_RIGHT",                        false};
 {"HB_F14_LOD1_3in1",          0,                    "../../f-14b/VF-103 - 000 - Line/HB_F14_LOD1_3in1",                           false};
 --{"HB_F14_LOD3_3in1",          0,                    "../../f-14b/VF-103 - 000 - Line/HB_F14_LOD3_3in1",                           false};
 {"HB_F14_EXT_PILOT_HELMET",   0,                    "../../f-14b/VF-103 - 000 - Line/Helmets/Line/JTF_F14_HELMET_PILOT_LINE",       false};
