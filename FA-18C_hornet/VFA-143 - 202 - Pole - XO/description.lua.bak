@@ -42,7 +42,7 @@ livery = {
 	{"GBU_16", ROUGHNESS_METALLIC, "gbu_16t_gray_diff_roughmet", true};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"../VFA-143Textures/FPU_8A_PukinDogs_Line",false};
+	{"FPU_8A", 0 ,"FPU_8A_PukinDogs_CO",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
 	
 	--*NEW 2.8.4 Bort Numbers*
