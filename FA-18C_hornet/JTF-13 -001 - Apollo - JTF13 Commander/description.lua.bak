@@ -1,16 +1,18 @@
 livery = {
 	--Main Maps
-	{"f18c1", 0 ,"F18C_1_DIFF_VMFA_224_Bengals",false};
-	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"f18c1", 0 ,"F18C_1_DIFF_JTF13",false};
+	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet_JTF13",false};
 
-	{"f18c2", 0 ,"F18C_2_DIFF_VMFA_224_Bengals",false};
-	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"f18c2", 0 ,"F18C_2_DIFF_JTF13",false};
+	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet_JTF13",false};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet", 0, "pilot_f18_helmet_hotpocket", false};
-	{"pilot_F18_patch", 0 ,"../VMFA-224 - 000 - Line/Hornet_Pilot_Patch",false};
+	{"pilot_F18_helmet_HGU68",DIFFUSE,"pilot_f18_helmet_APOLLO", false};
+    {"pilot_F18_helmet_HGU68",NORMAL_MAP, "pilot_f18_helmet_normal", false};
+    {"pilot_F18_helmet_HGU68",13,"pilot_F18_helmet_roughmet_APOLLO", false};
+	{"pilot_F18_patch", 0 ,"PILOT_F18_PATCH_JTF13",false};
 	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",true};
-	{"pilot_F18", 2 ,"pilot_F18_patch_roughmet",false};
+	{"pilot_F18", 2 ,"pilot_F18_patch_NM",false};
 	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
 	
 	--Grey Naval bombs
@@ -39,8 +41,8 @@ livery = {
 	{"GBU_16", ROUGHNESS_METALLIC, "gbu_16t_gray_diff_roughmet", true};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"FPU_8A2",false};
-	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
+	{"FPU_8A", 0 ,"FPU_8A_JTF13",false};
+	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_JTF13_NM",false};	
 	
 	
 	--*NEW 2.8.4 Bort Numbers*
@@ -83,5 +85,5 @@ custom_args = {
 	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
 }
 
-name = "VMFA(AW)-224 Fighting Bengals - 400 - Pocket - CAG HiViz"
+name = "JTF-13 Commander - Apollo 001"
 

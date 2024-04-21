@@ -7,13 +7,10 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet_JTF13",false};
 	
 	--Pilot Maps
-	{"pilot_F18_helmet_HGU68",DIFFUSE,"pilot_f18_helmet_APOLLO", false};
-    {"pilot_F18_helmet_HGU68",NORMAL_MAP, "pilot_f18_helmet_normal", false};
-    {"pilot_F18_helmet_HGU68",13,"pilot_F18_helmet_roughmet_APOLLO", false};
-	{"pilot_F18_patch", 0 ,"PILOT_F18_PATCH_JTF13",false};
-	{"pilot_F18", 0 ,"../VMFA-224 - 000 - Line/pilot_F18",true};
-	{"pilot_F18", 2 ,"pilot_F18_patch_NM",false};
-	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
+	{"pilot_F18_patch", 0 ,"../VFA-143Textures/Pilot_F18_Patch_PukinDogs",false};
+	{"pilot_F18_patch", 1 ,"../VFA-143Textures/Pilot_F18_Patch_NORM_PukinDogs",false};
+	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"../VFA-143Textures/Pilot_F18_Patch_PukinDogs_RoughMet",false};
+	{"pilot_F18_helmet_hmd", 0 ,"/pilot_F18_helmet_apollo",false};
 	
 	--Grey Naval bombs
 	{"GBU_12",	DIFFUSE			,	"gbu_12t_gray_diff", true};
