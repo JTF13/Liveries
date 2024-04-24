@@ -40,7 +40,7 @@ livery = {
 	{"F16_bl50_Engine", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/F16_bl50_Engine_RoughMet",false};
 
 	{"pilot_F16", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16", false};
-	{"pilot_F16_helmet", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16_helmet",false};
+	{"pilot_F16_helmet", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16_helmetY",false};
 	{"pilot_F16_patch", 0 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch",false};
 	{"pilot_F16_patch", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_roughmet",false};
 	{"pilot_F16_patch", 1 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_normal",false};

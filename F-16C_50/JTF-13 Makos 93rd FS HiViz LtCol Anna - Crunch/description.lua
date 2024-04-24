@@ -65,7 +65,7 @@ livery = {
 	{"AAQ_28_Glass", 0, "../JTF-13 Makos 93rd FS Blue Hi-Viz/aaq_28_glass", false};
 	{"AAQ_28_Glass", ROUGHNESS_METALLIC, "../JTF-13 Makos 93rd FS Blue Hi-Viz/aaq_28_glass_roughmet", false};
 	
-	{"pilot_F16_helmet", 0 ,"../JTF-13 Makos 93rd FS Blue Hi-Viz/pilot_F16_helmet",false};
+	{"pilot_F16_helmet", 0 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_helmetY",false};
 	{"pilot_F16_helmet", ROUGHNESS_METALLIC ,"../JTF-13 Makos 93rd FS Blue Hi-Viz/pilot_F16_helmet_roughmet",false};
 	
 	--F16_bl50_NOUSE_1_DECAL--
