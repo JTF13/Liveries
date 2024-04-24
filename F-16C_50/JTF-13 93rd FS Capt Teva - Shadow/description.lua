@@ -44,7 +44,7 @@ livery = {
 
 --Piloto
 	{"pilot_F16", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16", false};
-	{"pilot_F16_helmet", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16_helmet",false};
+	{"pilot_F16_helmet", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16_helmetY",false};
 
 {"pilot_F16_helmet", ROUGHNESS_METALLIC, "pilot_F16_helmet_roughmet",false};
 
