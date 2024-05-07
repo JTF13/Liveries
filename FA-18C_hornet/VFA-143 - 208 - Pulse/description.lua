@@ -10,7 +10,7 @@ livery = {
 	{"pilot_F18_patch", 0 ,"../VFA-143Textures/Pilot_F18_Patch_PukinDogs",false};
 	{"pilot_F18_patch", 1 ,"../VFA-143Textures/Pilot_F18_Patch_NORM_PukinDogs",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"../VFA-143Textures/Pilot_F18_Patch_PukinDogs_RoughMet",false};
-	{"pilot_F18_helmet_hmd", 0 ,"../VFA-143Textures/pilot_F18_helmet",false};
+	{"pilot_F18_helmet_hmd", 0 ,"/pilot_F18_helmet_pulse",false};
 	
 	--Grey Naval bombs
 	{"GBU_12",	DIFFUSE			,	"gbu_12t_gray_diff", true};
