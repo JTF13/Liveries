@@ -155,9 +155,9 @@ livery = {
 	{"F-15EC_06",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07",	0,	                "F-15E_EC07A3",					true};
-	{"F-15EC_07",	1,	                "F-15E_EC07A_NRM",				true};
-	{"F-15EC_07",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
+	{"F-15EC_07",	0,	                "Arew_EC07A3",					false};
+	{"F-15EC_07",	1,	                "Arew_EC07A_NRM",				false};
+	{"F-15EC_07",	ROUGHNESS_METALLIC,	"Arew_EC07A_RoughMet", 		false};
 --    {"F-15EC_07",	DECAL,	            "F-15EC_07_Decal",			true};
 
 --WSO
@@ -169,9 +169,9 @@ livery = {
 	{"F-15EC_06R",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06R",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07R",	0,	                "F-15E_EC07A3",					true};
-	{"F-15EC_07R",	1,	                "F-15E_EC07A_NRM",				true};
-	{"F-15EC_07R",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
+	{"F-15EC_07R",	0,	                "90FS_EC07A3",					false};
+	{"F-15EC_07R",	1,	                "90FS_EC07A_NRM",				false};
+	{"F-15EC_07R",	ROUGHNESS_METALLIC,	"90FS_EC07A_RoughMet", 			false};
 --    {"F-15EC_07R",	DECAL,	            "F-15EC_07_Decal",			true};
 
 
