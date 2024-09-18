@@ -151,6 +151,72 @@ livery = {
 	{"F-15E_TAIL-NUMBER-R",	1,	                "F-15e_E06_NRM",				true};
 	{"F-15E_TAIL-NUMBER-R",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", 			true};
     {"F-15E_TAIL-NUMBER-R",	DECAL,	            "F-15E_BLK_R-Shadows_Numbers",			false};
+	
+--PILOT
+	{"F-15EC_05",	0,	                "F-15E_EC05B2",					true};
+	{"F-15EC_05",	1,	                "F-15E_EC05_NRM",				true};
+	{"F-15EC_05",	ROUGHNESS_METALLIC,	"F-15E_EC05_RoughMet", 			true};
+
+	{"F-15EC_06",	0,	                "F-15E_EC06B2",					true};
+	{"F-15EC_06",	1,	                "F-15E_EC06_NRM",				true};
+	{"F-15EC_06",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
+
+	{"F-15EC_07",	0,	                "../Standard Helmets/90FS_RED_EC07A1",					false};
+	{"F-15EC_07",	1,	                "../Standard Helmets/90FS_EC07A_NRM",				false};
+	{"F-15EC_07",	ROUGHNESS_METALLIC,	"../Standard Helmets/90FS_EC07A_RoughMet", 		false};
+--    {"F-15EC_07",	DECAL,	            "F-15EC_07_Decal",			true};
+
+--WSO
+	{"F-15EC_05R",	0,	                "F-15E_EC05B1",					true};
+	{"F-15EC_05R",	1,	                "F-15E_EC05_NRM",				true};
+	{"F-15EC_05R",	ROUGHNESS_METALLIC,	"F-15E_EC05_RoughMet", 			true};
+
+	{"F-15EC_06R",	0,	                "F-15E_EC06B1",					true};
+	{"F-15EC_06R",	1,	                "F-15E_EC06_NRM",				true};
+	{"F-15EC_06R",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
+
+	{"F-15EC_07R",	0,	                "../Standard Helmets/90FS_RED_EC07A1",					false};
+	{"F-15EC_07R",	1,	                "../Standard Helmets/90FS_EC07A_NRM",				false};
+	{"F-15EC_07R",	ROUGHNESS_METALLIC,	"../Standard Helmets/90FS_EC07A_RoughMet", 			false};
+--    {"F-15EC_07R",	DECAL,	            "F-15EC_07_Decal",			true};
+
+
+-----------------------------VR/OTHER PILOTS-----------------------------------------
+
+--PILOT
+	{"F-15E_VR-Pilot1",	0,	                "F-15E_TP1B2",					true};
+	{"F-15E_VR-Pilot1",	1,	                "F-15E_TP1_NRM",				true};
+	{"F-15E_VR-Pilot1",	ROUGHNESS_METALLIC,	"F-15E_TP1_RoughMet", 			true};
+
+	{"F-15E_VR-Pilot2",	0,	                "F-15E_TP2B2",					true};
+	{"F-15E_VR-Pilot2",	1,	                "F-15E_TP2_NRM",				true};
+	{"F-15E_VR-Pilot2",	ROUGHNESS_METALLIC,	"F-15E_TP2_RoughMet", 			true};
+
+	{"F-15E_VR-Pilot3",	0,	                "F-15E_TP3B",					true};
+	{"F-15E_VR-Pilot3",	1,	                "F-15E_TP3_NRM",				true};
+	{"F-15E_VR-Pilot3",	ROUGHNESS_METALLIC,	"F-15E_TP3_RoughMet", 			true};
+
+--WSO
+	{"F-15E_VR-Pilot1R",	0,	                "F-15E_TP1B1",				true};
+	{"F-15E_VR-Pilot1R",	1,	                "F-15E_TP1_NRM",			true};
+	{"F-15E_VR-Pilot1R",	ROUGHNESS_METALLIC,	"F-15E_TP1_RoughMet", 		true};
+
+	{"F-15E_VR-Pilot2R",	0,	                "F-15E_TP2B1",				true};
+	{"F-15E_VR-Pilot2R",	1,	                "F-15E_TP2_NRM",			true};
+	{"F-15E_VR-Pilot2R",	ROUGHNESS_METALLIC,	"F-15E_TP2_RoughMet", 		true};
+
+	{"F-15E_VR-Pilot3R",	0,	                "F-15E_TP3B",				true};
+	{"F-15E_VR-Pilot3R",	1,	                "F-15E_TP3_NRM",			true};
+	{"F-15E_VR-Pilot3R",	ROUGHNESS_METALLIC,	"F-15E_TP3_RoughMet", 		true};
+
+--Visor
+	{"F-15EC_07_Visor",	0,	                "F-15E_EC07A1",					true};
+	{"F-15EC_07_Visor",	1,	                "F-15E_EC07A_NRM",				true};
+	{"F-15EC_07_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 		true};
+
+	{"F-15EC_07R_Visor",	0,	                "F-15E_EC07A1",					true};
+	{"F-15EC_07R_Visor",	1,	                "F-15E_EC07A_NRM",				true};
+	{"F-15EC_07R_Visor",	ROUGHNESS_METALLIC,	"F-15E_EC07A_RoughMet", 			true};
 }
 
 
