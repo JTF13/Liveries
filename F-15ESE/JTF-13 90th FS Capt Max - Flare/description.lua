@@ -155,7 +155,7 @@ livery = {
 	{"F-15EC_06",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07",	0,	                "Flare_EC07A3",					false}; --blue
+	{"F-15EC_07",	0,	                "Flare_EC07A3",					false}; --blue visor
 	{"F-15EC_07",	1,	                "Flare_EC07A3_NRM",				false};
 	{"F-15EC_07",	ROUGHNESS_METALLIC,	"Flare_EC07A3_RoughMet", 		false};
 --    {"F-15EC_07",	DECAL,	            "F-15EC_07_Decal",			true};
@@ -169,7 +169,7 @@ livery = {
 	{"F-15EC_06R",	1,	                "F-15E_EC06_NRM",				true};
 	{"F-15EC_06R",	ROUGHNESS_METALLIC,	"F-15E_EC06_RoughMet", 			true};
 
-	{"F-15EC_07R",	0,	                "../Standard Helmets/90FS_EC07A3",					false}; --blue
+	{"F-15EC_07R",	0,	                "../Standard Helmets/90FS_RED_EC07A3",					false}; --blue visor
 	{"F-15EC_07R",	1,	                "../Standard Helmets/90FS_EC07A_NRM",				false};
 	{"F-15EC_07R",	ROUGHNESS_METALLIC,	"../Standard Helmets/90FS_EC07A_RoughMet", 			false};
 --    {"F-15EC_07R",	DECAL,	            "F-15EC_07_Decal",			true};
