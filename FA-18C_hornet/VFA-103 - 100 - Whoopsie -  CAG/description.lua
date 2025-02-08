@@ -17,7 +17,7 @@ livery = {
 	
 	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF",false};
 	{"f18c1_number_nose_right", ROUGHNESS_METALLIC ,"F18C_1_DIFF_RoughMet",false};
-	{"f18c1_number_nose_right", DECAL ,"empty", true};;
+	{"f18c1_number_nose_right", DECAL ,"empty", true};
 	
 	{"f18c1_number_nose_left", 0 ,"F18C_1_DIFF",false};
 	{"f18c1_number_nose_left", ROUGHNESS_METALLIC ,"F18C_1_DIFF_RoughMet",false};
@@ -70,27 +70,25 @@ livery = {
 	{"GBU_16", NORMAL_MAP, "gbu_16t_nm", true};
 	{"GBU_16", ROUGHNESS_METALLIC, "gbu_16t_gray_diff_roughmet", true};
 }
-name = "VFA-103 Jolly Rogers Hornet- CAG"
-countries = {"USA",}
 
-
-
-
-
-custom_args = 
-{
+custom_args = {
  
-[27] = 1.0, -- Tail      change of type of board number (0.0 -default USA, 0.1- )
+[0027] = 1.0, -- Tail      change of type of board number (0.0 -default USA, 0.1- )
 [1000] = 1.0, -- Flaps
 [1001] = 1.0, -- Nose
-[1002] = 1, -- Kuwait Squadron 
-[1003] = 1, -- Australian Squadron 
-[1004] = 1, -- Finland Squadron
-[1005] = 1, -- Switzerland Squadron
-[1006] = 1, -- Blue Angels Jet Team
-
+[1002] = 1.0, -- Kuwait Squadron 
+[1003] = 1.0, -- Australian Squadron 
+[1004] = 1.0, -- Finland Squadron
+[1005] = 1.0, -- Switzerland Squadron
 
 }
+
+
+name = "VFA-103 Jolly Rogers Hornet - CAG"
+--countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
+
+
+
 
 
 
