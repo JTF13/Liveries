@@ -1,5 +1,5 @@
 livery = {
-	{"A-10C_PAINT_1-a", 	0 ,"../../A-10C/Blacksnakes - Wizard/A-10C_163_1-a"		,false};
+	{"A-10C_PAINT_1-a", 	0 ,"../../A-10C/Blacksnakes - Whiskeys/A-10C_163_1-a"		,false};
 	{"A-10C_PAINT_1-b", 	0 ,"../../A-10C/Blacksnakes - Gunfighter/A-10C_163_1-b"		,false};
 	{"A-10C_PAINT_1-c", 	0 ,"../../A-10C/Blacksnakes - Gunfighter/A-10C_163_1-c"		,false};
 	{"A-10C_PAINT_1-d", 	0 ,"../../A-10C/Blacksnakes - Gunfighter/A-10C_163_1-d"		,false};
