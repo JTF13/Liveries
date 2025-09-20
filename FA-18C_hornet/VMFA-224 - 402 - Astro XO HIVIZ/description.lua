@@ -83,5 +83,5 @@ custom_args = {
 	[1005] = 1.0, -- SWITZERLAND_MODEX_VERTICAL_STABILIZERS
 }
 
-name = "VMFA(AW)-224 Fighting Bengals - 401 - Legs CO HIVIZ"
+name = "VMFA(AW)-224 Fighting Bengals - 402 - Astro CO HIVIZ"
 
