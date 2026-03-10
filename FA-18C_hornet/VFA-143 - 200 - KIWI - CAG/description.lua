@@ -81,4 +81,5 @@ custom_args = {
 
 name = "VFA-143 Pukin' Dogs - 200 - KIWI - CAG"
 countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
---By SkateZilla Graphics Studios 2018 (07.10.2018)
+--Originally by SkateZilla Graphics Studios 2018 (07.10.2018)
+--Modified by Arctic / Kiwi (3.9.2026)
