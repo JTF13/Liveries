@@ -20,6 +20,15 @@ livery = {
 {"HB_F14_EXT_PILOT",          0,                    "../../f-14b/VF-103 - 000 - Line/HB_F14_EXT_PILOT",                           false};
 {"HB_F14_EXT_DROPTANKS",      0,                    "../../f-14b/VF-103 - 000 - Line/HB_F14_EXT_DROPTANK",                         false};
 
+-- New Helmets
+{"HB_HGU_55_Basic_PLT", 0 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/HB_HGU_55_Basic",false};
+{"HB_HGU_55_Basic_PLT", 13 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/HB_HGU_55_Basic_RoughMet",false};
+{"HB_HGU_55_Basic_PLT", 1 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/HB_HGU_55_Basic_NRM",false};
+
+{"HB_HGU_55_Basic_RIO", 0 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/HB_HGU_55_Basic",false};
+{"HB_HGU_55_Basic_RIO", 13 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/HB_HGU_55_Basic_RoughMet",false};
+{"HB_HGU_55_Basic_RIO", 1 ,"../../f-14b/VF-103 - 000 - Line/Helmets/Line/HB_HGU_55_Basic_NRM",false};
+
 }
 name = "VF-103 - Wizard"
 
