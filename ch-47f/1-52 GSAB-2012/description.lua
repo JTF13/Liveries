@@ -125,7 +125,7 @@ livery = {
 	
 }
 
-name = "1-52 GSAB 16th Combat Aviation Brigade 'Sugar Bear'"
+name = "1-52 GSAB 16th Combat Aviation Brigade 'Sugar Bear-2012'"
 
 --countries = {"IND", "RUS", "UKR", "USA", "TUR", "UK", "FRA", "GER", "AUSAF",
 --             "SPN", "BEL", "NOR", "DEN", "ISR", "GRG", "INS", "ABH", "NETH",
