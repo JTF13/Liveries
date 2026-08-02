@@ -119,20 +119,19 @@ livery = {
 	{"ch-47f_tex17", ROUGHNESS_METALLIC, "ch-47f_tex17_RoughMet", true};
 	
 -- Pilot
-	{"Pilot_CH47_Patch", 0, "Pilot_CH47_Patch", false};
-	{"Pilot_CH47_Patch", 1, "Pilot_CH47_Patch_normal", false};
-	{"Pilot_CH47_Patch", ROUGHNESS_METALLIC, "Pilot_CH47_Patch_roughmet", false};
-	
+	{"Pilot_CH47_FP_Jacket",DIFFUSE			,	"pilot_ch47_fp_jacket", false};
+	{"Pilot_CH47_FP_Jacket",NORMAL_MAP		,	"pilot_ch47_fp_jacket_normal", false};
+	{"Pilot_CH47_FP_Jacket",ROUGHNESS_METALLIC,	"pilot_ch47_fp_jacket_roughmet", false};
+	{"Pilot_CH47_Patch",DIFFUSE				,	"Pilot_CH47_Patch", false};
+	{"Pilot_CH47_Patch",NORMAL_MAP			,	"Pilot_CH47_Patch_normal", false};
+	{"Pilot_CH47_Patch",ROUGHNESS_METALLIC	,	"Pilot_CH47_Patch_roughmet", false};
+
 }
 
 name = "1-52 GSAB 16th Combat Aviation Brigade 'Sugar Bear-2012'"
 
---countries = {"IND", "RUS", "UKR", "USA", "TUR", "UK", "FRA", "GER", "AUSAF",
---             "SPN", "BEL", "NOR", "DEN", "ISR", "GRG", "INS", "ABH", "NETH",
---             "RSO", "ITA", "AUS", "SUI", "AUT", "BLR", "BGR", "CZE", "CHN",
---             "HRV", "EGY", "FIN", "GRC", "HUN", "CAN", "IRN", "IRQ", "JPN",
---             "KAZ", "PRK", "PAK", "POL", "ROU", "SAU", "SRB", "SVK", "KOR",
---             "SWE", "SYR", "BRA", "BHR", "JOR", "MYS", "MEX", "SDN", "THA", "TUN"
---}
-
-
+custom_args =
+{
+	[508] = 1.0, -- 1.0 visor down Pilot
+	[518] = 1.0, -- 1.0 visor down CoPilot
+}
